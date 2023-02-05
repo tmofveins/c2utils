@@ -1,0 +1,2876 @@
+ID: 
+Character: PAFF
+Song: Body Talk
+Artist: M2U
+BPM: 128
+Charts: [EASY 1 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_000/chaos]
+ID: 
+Character: PAFF
+Song: Survive
+Artist: Kevin Penkin feat. Nikki Simmons
+BPM: 131
+Charts: [EASY 1 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_001/chaos]
+ID: 
+Character: PAFF
+Song: Bullet Waiting for Me (James Landino remix)
+Artist: Nikki Simmons
+BPM: 107
+Charts: [EASY 1 => , HARD 4 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_002/chaos]
+ID: 
+Character: PAFF
+Song: KANATA
+Artist: mikito
+BPM: 130
+Charts: [EASY 2 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_003/chaos]
+ID: 
+Character: PAFF
+Song: Fight Another Day (Andy Tunstall remix)
+Artist: Kat Penkin
+BPM: 120
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_004/chaos]
+ID: 
+Character: PAFF
+Song: Baptism of Fire (CliqTrack remix)
+Artist: Louise Penman
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_005/chaos]
+ID: 
+Character: PAFF
+Song: Fireflies (Funk Fiction remix)
+Artist: Nikki Simmons
+BPM: 130
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_006/chaos]
+ID: 
+Character: PAFF
+Song: Gravity
+Artist: M2U
+BPM: 128
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_007/chaos]
+ID: 
+Character: PAFF
+Song: Re:Boost
+Artist: EAjRock
+BPM: 175
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_008/chaos]
+ID: 
+Character: PAFF
+Song: Green Hope
+Artist: Re:Brych voc. Sing Sing Rabbit
+BPM: 194
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_009/chaos]
+ID: 
+Character: PAFF
+Song: Under the same sky
+Artist: hinode
+BPM: 150
+Charts: [EASY 1 => , HARD 7 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_010/chaos]
+ID: 
+Character: PAFF
+Song: So In Love
+Artist: MK&Kanae Asaba
+BPM: 130
+Charts: [EASY 1 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_011/chaos]
+ID: 
+Character: PAFF
+Song: Winter Games
+Artist: GALAXIKA, MONO TO STEREO, TIGER DARROW
+BPM: 118
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_012/chaos]
+ID: 
+Character: PAFF
+Song: New World
+Artist: aioi feat. KAMATA JUNKO
+BPM: 92
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_013/chaos]
+ID: 
+Character: PAFF
+Song: SECRET;WEAPON
+Artist: NOMA w/ Apo11o program ft.Yukacco
+BPM: 190
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/paff001_014/chaos]
+ID: 
+Character: PAFF
+Song: Lilac for Anabel
+Artist: Apo11o program ft.Mayumi Morinaga
+BPM: 145
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/paff001_015/chaos]
+ID: 
+Character: PAFF
+Song: Who Am I?
+Artist: Iris feat. Ruri Matsumura
+BPM: 147
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_016/chaos]
+ID: 
+Character: PAFF
+Song: More Than Diamond
+Artist: THE SxPLAY(菅原紗由理)
+BPM: 126
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_017/chaos]
+ID: 
+Character: PAFF
+Song: Blossoms for Life
+Artist: Shi Kuang Lee & Pico & 林子玹
+BPM: 120
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_018/chaos]
+ID: 
+Character: PAFF
+Song: Cityscape
+Artist: Takashi OKAMOTO(12sound) feat. Tsukasa Shiraki
+BPM: 117
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_019/chaos]
+ID: 
+Character: PAFF
+Song: Favorites
+Artist: DJ'TEKINA//SOMETHING
+BPM: 155
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_020/chaos]
+ID: 
+Character: PAFF
+Song: Make Me Alive
+Artist: THE SxPLAY(菅原紗由理)
+BPM: 126
+Charts: [EASY 3 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_021/chaos]
+ID: 
+Character: PAFF
+Song: Light up my love!!
+Artist: onoken feat. moco
+BPM: 166
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_022/chaos]
+ID: 
+Character: PAFF
+Song: Super attractor
+Artist: ユアミトス
+BPM: 195
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/paff001_023/chaos]
+ID: 
+Character: PAFF
+Song: Recall
+Artist: Night Keepers
+BPM: 94
+Charts: [EASY 3 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_024/chaos]
+ID: 
+Character: PAFF
+Song: I Wish You Were Mine
+Artist: GALAXIKA, ELIN
+BPM: 138-142
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_025/chaos]
+ID: 
+Character: PAFF
+Song: PIXIE DUST
+Artist: 上村叶恵
+BPM: 110
+Charts: [EASY 1 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_026/chaos]
+ID: 
+Character: PAFF
+Song: Sleeping Beast
+Artist: SNoW
+BPM: 147
+Charts: [EASY 4 => , HARD 7 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_027/chaos]
+ID: 
+Character: PAFF
+Song: Inspiration
+Artist: Hannah
+BPM: 95
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_028/chaos]
+ID: 
+Character: PAFF
+Song: No-Effected World
+Artist: Miki Fujimoto feat.HARUKI
+BPM: 126
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_029/chaos]
+ID: 
+Character: PAFF
+Song: Streetlights (ft. CassieGemini)
+Artist: PTB10
+BPM: 174
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_030/chaos]
+ID: 
+Character: PAFF
+Song: Save me Now
+Artist: MadHero
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/paff001_031/chaos]
+ID: 
+Character: PAFF
+Song: illMenate
+Artist: takenoko boy feat. moimoi
+BPM: 116-195
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/paff001_032/chaos]
+ID: 
+Character: PAFF
+Song: Orison
+Artist: Iris feat. Jacelyn Yeo
+BPM: 155
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/paff001_033/chaos]
+ID: 
+Character: PAFF
+Song: So...
+Artist: nikiie
+BPM: 125
+Charts: [EASY 3 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff001_034/chaos]
+ID: 
+Character: PAFF
+Song: Eutopia
+Artist: nikiie
+BPM: 125
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_035/chaos]
+ID: 
+Character: PAFF
+Song: Fly With Love
+Artist: Sing Sing Rabbit
+BPM: 110
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff001_036/chaos]
+ID: 
+Character: PAFF
+Song: 変身 feat. Dirty Androids
+Artist: ぷにぷに電機
+BPM: 105
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff001_037/chaos]
+ID: 
+Character: PAFF
+Song: Mirror (ft. tiki)
+Artist: PTB10
+BPM: 150
+Charts: [EASY 5 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff001_038/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: The Spark
+Artist: Scott Brown & M-Project feat. Krystal
+BPM: 175
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_001/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Resurrection
+Artist: Kiryu
+BPM: 195
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_002/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: One Way Love
+Artist: Tsukasa
+BPM: 180
+Charts: [EASY 2 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/neko001_003/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Happiness Breeze
+Artist: 3R2 as DJ Mashiro
+BPM: 185
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_004/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Alterna Pt.1 -Cosmogony-
+Artist: Ayatsugu_Neverend ft.Kimi
+BPM: 173
+Charts: [EASY 2 => , HARD 5 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_005/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Zealous Hearts (Rayark Edit)
+Artist: Zekk
+BPM: 200
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_006/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Keep it up
+Artist: uma
+BPM: 280
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_007/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: CODE NAME : GAMMA
+Artist: NeLiME
+BPM: 210
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_008/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Blow my mind
+Artist: 3R2
+BPM: 175
+Charts: [EASY 3 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_009/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Chrome VOX
+Artist: t+pazolite
+BPM: 205
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_010/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Hard Landing
+Artist: Yamajet
+BPM: 140
+Charts: [EASY 3 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_011/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Brain Power
+Artist: NOMA
+BPM: 170-173
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_012/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: PrayStation (HiTECH NINJA Remix)
+Artist: HiTECH NINJA
+BPM: 153
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_015/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: 100sec Cat Dreams
+Artist: Ayatsugu_Revolved
+BPM: 177
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_016/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: REmorse
+Artist: SIHanatsuka
+BPM: 204
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_017/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Stranger
+Artist: James Landino
+BPM: 171
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_018/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: 小悪魔×3の大脫走！？
+Artist: 101-202-404
+BPM: 202
+Charts: [EASY 3 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_019/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: extinguisher
+Artist: lixound
+BPM: 181
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_020/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Online
+Artist: HiTECH NINJA
+BPM: 172
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_021/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Sunday Night Blues
+Artist: TERU FOX
+BPM: 165
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/neko001_022/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: For You the Bellz Toll
+Artist: 柳田Ethnica
+BPM: 195
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_024/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Blow My Mind (tpz Overheat Remix)
+Artist: 3R2 Remixed by t+pazolite
+BPM: 210
+Charts: [EASY 4 => , HARD 7 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_025/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Maboroshi
+Artist: かめりあ(EDP)
+BPM: 190
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_026/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: TOKONOMA Spacewalk
+Artist: t+pazolite
+BPM: 150
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_027/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: UnNOT!CED
+Artist: V!C
+BPM: 174
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_028/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: 下水鳴動して鼠一匹
+Artist: O-SE
+BPM: 168-200
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_029/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Capybara Kids' Paradise
+Artist: Ice vs LunaticSounds
+BPM: 235
+Charts: [EASY 6 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_030/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Walnut Walkers
+Artist: fether
+BPM: 120-136
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_031/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Hydra
+Artist: James Landino X Akira Complex
+BPM: 160
+Charts: [EASY 5 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_032/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Liberation
+Artist: Silaver & lixound
+BPM: 150-195
+Charts: [EASY 6 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_033/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Ramen is God
+Artist: Ramenbot a.k.a Ice VS Masahiro "Godspeed" Aoki
+BPM: 145
+Charts: [EASY 6 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_034/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Re:VeLΔTiØN ～光道ト破壊ノ双白翼～
+Artist: Apo11o"月読命"program vs. NeLiME OVERDRIVE
+BPM: 79-666
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_035/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Rebirth
+Artist: 3R2 & SIHanatsuka
+BPM: 145
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_036/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Rei
+Artist: Catalyst
+BPM: 95
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_037/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: 響け！
+Artist: Kry.exe
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_038/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: 気楽なCloudy
+Artist: technoplanet feat. はるの
+BPM: 158
+Charts: [EASY 5 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_039/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: LOUDER MACHINE
+Artist: NOMA
+BPM: 180
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_055/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Dropping Lightspeed
+Artist: M-Project & UTX
+BPM: 190
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_073/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Better than your error system
+Artist: HyuN
+BPM: 178
+Charts: [EASY 2 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_074/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Headrush
+Artist: floopy
+BPM: 138
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_075/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Ready to Take the Next Step
+Artist: CiX
+BPM: 178
+Charts: [EASY 5 => , HARD 8 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_076/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: ゴーストアウト
+Artist: Ponchi♪ feat. はあち
+BPM: 270
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_077/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Human Extinction
+Artist: MonstDeath
+BPM: 199
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_078/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: UNIVERSAL RENDA AWESOME
+Artist: ルゼ
+BPM: 175
+Charts: [EASY 5 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_079/chaos]
+ID: 
+Character: NEKO#ΦωΦ
+Song: Afterlife
+Artist: Neutral Moon X HyuN
+BPM: 210
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_080/chaos]
+ID: 
+Character: ROBO_Head
+Song: Deadly Slot Game
+Artist: 提供
+BPM: 120
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_001/chaos]
+ID: 
+Character: ROBO_Head
+Song: Make Me Burn
+Artist: JAKAZiD
+BPM: 140
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_002/chaos]
+ID: 
+Character: ROBO_Head
+Song: Restriction
+Artist: Team Grimoire
+BPM: 175
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo001_003/chaos]
+ID: 
+Character: ROBO_Head
+Song: Luolimasi
+Artist: SIHanatsuka
+BPM: 110
+Charts: [EASY 2 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo001_004/chaos]
+ID: 
+Character: ROBO_Head
+Song: Claim the Game
+Artist: SOTUI feat. Tha Watcher
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_005/chaos]
+ID: 
+Character: ROBO_Head
+Song: Devillic Sphere
+Artist: 3R2
+BPM: 160
+Charts: [EASY 3 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_006/chaos]
+ID: 
+Character: ROBO_Head
+Song: Pure Powerstomper
+Artist: M-Project feat. Jonjo
+BPM: 120-177
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_007/chaos]
+ID: 
+Character: ROBO_Head
+Song: Celestial Sounds (KIVΛ Remix)
+Artist: 3R2
+BPM: 187
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo001_008/chaos]
+ID: 
+Character: ROBO_Head
+Song: Grimoire of Crimson
+Artist: Team Grimoire
+BPM: 177
+Charts: [EASY 4 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo001_009/chaos]
+ID: 
+Character: ROBO_Head
+Song: Dasein
+Artist: KIVΛ
+BPM: 160
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_010/chaos]
+ID: 
+Character: ROBO_Head
+Song: CHAOS
+Artist: Æsir
+BPM: 80-150
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo001_011/chaos]
+ID: 
+Character: ROBO_Head
+Song: EMber
+Artist: SIHanatsuka
+BPM: 145.1
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_012/chaos]
+ID: 
+Character: ROBO_Head
+Song: Midnight
+Artist: 提供
+BPM: 100
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_013/chaos]
+ID: 
+Character: ROBO_Head
+Song: Sickest City
+Artist: DJ Myosuke
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/robo001_014/chaos]
+ID: 
+Character: ROBO_Head
+Song: Jazzy Glitch Machine
+Artist: 提供
+BPM: 120
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_015/chaos]
+ID: 
+Character: ROBO_Head
+Song: dimensionalize nervous breakdown (rev.flat)
+Artist: Frums
+BPM: 132
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_016/chaos]
+ID: 
+Character: ROBO_Head
+Song: cold
+Artist: Noizenecio
+BPM: 190
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_017/chaos]
+ID: 
+Character: ROBO_Head
+Song: NRG_Tech
+Artist: 3R2
+BPM: 158
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_018/chaos]
+ID: 
+Character: ROBO_Head
+Song: Break Through the Barrier
+Artist: lixound
+BPM: 176
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_019/chaos]
+ID: 
+Character: ROBO_Head
+Song: Dead Master
+Artist: Neutral Moon
+BPM: 175
+Charts: [EASY 3 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_020/chaos]
+ID: 
+Character: ROBO_Head
+Song: Dead Point
+Artist: Neutral Moon
+BPM: 175
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_021/chaos]
+ID: 
+Character: ROBO_Head
+Song: Nocturnal Type
+Artist: switchworks
+BPM: 160
+Charts: [EASY 4 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo001_022/chaos]
+ID: 
+Character: ROBO_Head
+Song: Accelerator
+Artist: Massive New Krew
+BPM: 150
+Charts: [EASY 2 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_023/chaos]
+ID: 
+Character: ROBO_Head
+Song: Armaros
+Artist: Dj Grimoire
+BPM: 185
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_024/chaos]
+ID: 
+Character: ROBO_Head
+Song: Break the Core
+Artist: PTB10
+BPM: 160
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo001_025/chaos]
+ID: 
+Character: ROBO_Head
+Song: Milky Way Galaxy (SIHanatsuka Remix)
+Artist: 3R2
+BPM: 175
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_026/chaos]
+ID: 
+Character: ROBO_Head
+Song: ViRUS
+Artist: Deepshout
+BPM: 150
+Charts: [EASY 3 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo001_027/chaos]
+ID: 
+Character: ROBO_Head
+Song: Awakening
+Artist: DiagonalT
+BPM: 138
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/robo001_028/chaos]
+ID: 
+Character: ROBO_Head
+Song: Hagiasmos
+Artist: Iris
+BPM: 150
+Charts: [EASY 5 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_029/chaos]
+ID: 
+Character: ROBO_Head
+Song: Fade Into The Darkness
+Artist: SADA
+BPM: 145
+Charts: [EASY 5 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_030/chaos]
+ID: 
+Character: ROBO_Head
+Song: SHIRO
+Artist: James Landino
+BPM: 132
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_031/chaos]
+ID: 
+Character: ROBO_Head
+Song: Tunnef's Nightmare
+Artist: Neutral Moon
+BPM: 175
+Charts: [EASY 3 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo001_032/chaos]
+ID: 
+Character: ROBO_Head
+Song: Subconscious Mind
+Artist: SADA 2Futureanthem
+BPM: 150
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_033/chaos]
+ID: 
+Character: ROBO_Head
+Song: Hyperbola
+Artist: SIHanatsuka
+BPM: 160
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_034/chaos]
+ID: 
+Character: ROBO_Head
+Song: tundra
+Artist: Noizenecio x Cookie Ramen
+BPM: 154
+Charts: [EASY 5 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_035/chaos]
+ID: 
+Character: ROBO_Head
+Song: Zeus
+Artist: Street
+BPM: 174
+Charts: [EASY 2 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo001_036/chaos]
+ID: 
+Character: ROBO_Head
+Song: [SILENT[[・-・]]MOMENT]
+Artist: JAKAZiD+Apo11o program ft.Uzumaki
+BPM: 170
+Charts: [EASY 4 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo001_045/chaos]
+ID: 
+Character: Ivy
+Song: Reset
+Artist: SIHanatsuka
+BPM: 191
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_001/chaos]
+ID: 
+Character: Ivy
+Song: D R G
+Artist: onoken
+BPM: 155
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ivy001_002/chaos]
+ID: 
+Character: Ivy
+Song: Sentimental Journey
+Artist: switchworks
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_003/chaos]
+ID: 
+Character: Ivy
+Song: Biotonic
+Artist: onoken
+BPM: 175
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_004/chaos]
+ID: 
+Character: Ivy
+Song: Alexandrite
+Artist: onoken
+BPM: 175
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_005/chaos]
+ID: 
+Character: Ivy
+Song: Tokiwatari
+Artist: Yamajet
+BPM: 85-170
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_006/chaos]
+ID: 
+Character: Ivy
+Song: Purge
+Artist: 3R2
+BPM: 154
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_007/chaos]
+ID: 
+Character: Ivy
+Song: Area184
+Artist: Persona
+BPM: 184
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_008/chaos]
+ID: 
+Character: Ivy
+Song: BloodyMare
+Artist: Tatsh Assault X
+BPM: 170
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_009/chaos]
+ID: 
+Character: Ivy
+Song: AssaultMare
+Artist: Tatsh Assault X
+BPM: 170
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_010/chaos]
+ID: 
+Character: Ivy
+Song: Lunar Mare
+Artist: xi vs sakuzyo
+BPM: 165
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_011/chaos]
+ID: 
+Character: Ivy
+Song: 99 Glooms
+Artist: Sta
+BPM: 185
+Charts: [EASY 5 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_012/chaos]
+ID: 
+Character: Ivy
+Song: Pressure
+Artist: Tsukasa
+BPM: 176
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_013/chaos]
+ID: 
+Character: Ivy
+Song: V.
+Artist: Æsir
+BPM: 150
+Charts: [EASY 6 => , HARD 10 => https://ct2view.the-kitti.com/chartlist/ivy001_014/hard, CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_014/chaos]
+ID: 
+Character: Ivy
+Song: Cristalisia
+Artist: onoken
+BPM: 134
+Charts: [EASY 4 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_015/chaos]
+ID: 
+Character: Ivy
+Song: Occidens
+Artist: ginkiha
+BPM: 175
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_016/chaos]
+ID: 
+Character: Ivy
+Song: Red Five
+Artist: Cranky
+BPM: 165
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_017/chaos]
+ID: 
+Character: Ivy
+Song: Homebound Train & Moving Thoughts
+Artist: KillerBlood
+BPM: 100
+Charts: [EASY 1 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/ivy001_018/chaos]
+ID: 
+Character: Ivy
+Song: iL
+Artist: Ice
+BPM: 80-160
+Charts: [EASY 5 => , HARD 10 => https://ct2view.the-kitti.com/chartlist/ivy001_019/hard, CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_019/chaos]
+ID: 
+Character: Ivy
+Song: CODE NAME : SIGMA
+Artist: NeLiME
+BPM: 209
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_020/chaos]
+ID: 
+Character: Ivy
+Song: New Challenger Approaching
+Artist: かめりあ(EDP)
+BPM: 140
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_021/chaos]
+ID: 
+Character: Ivy
+Song: What's Your PR.Ice?
+Artist: SOTUI feat. Kry.exe
+BPM: 180
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_022/chaos]
+ID: 
+Character: Ivy
+Song: VIS::CRACKED
+Artist: Frums
+BPM: 121-242
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_023/chaos]
+ID: 
+Character: Ivy
+Song: Wicked Ceremony
+Artist: Ice meets t+pazolite
+BPM: 170
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_024/chaos]
+ID: 
+Character: Ivy
+Song: Halloween Party
+Artist: SHK
+BPM: 155
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_025/chaos]
+ID: 
+Character: Ivy
+Song: Bloody Purity
+Artist: eyemedia
+BPM: 155
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_026/chaos]
+ID: 
+Character: Ivy
+Song: Masquerade
+Artist: M2U
+BPM: 128
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ivy001_027/chaos]
+ID: 
+Character: Ivy
+Song: Quantum Labyrinth
+Artist: Haloweak
+BPM: 128
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_028/chaos]
+ID: 
+Character: Ivy
+Song: Saika
+Artist: Rabpit
+BPM: 145
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_029/chaos]
+ID: 
+Character: Ivy
+Song: To Further Dream
+Artist: Shinichi Kobayashi
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_030/chaos]
+ID: 
+Character: Ivy
+Song: Libera Me
+Artist: Cranky
+BPM: 165
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_031/chaos]
+ID: 
+Character: Ivy
+Song: Qualia
+Artist: KIVΛ
+BPM: 160
+Charts: [EASY 3 => , HARD 10 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_032/chaos]
+ID: 
+Character: Ivy
+Song: DigiGroove
+Artist: Electron
+BPM: 110
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_033/chaos]
+ID: 
+Character: Ivy
+Song: Heat Ring
+Artist: James Landino
+BPM: 128
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ivy001_034/chaos]
+ID: 
+Character: Ivy
+Song: Leaving All Behind
+Artist: NOMA feat. Kanata.N
+BPM: 112-165
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_035/chaos]
+ID: 
+Character: Ivy
+Song: Symmetry
+Artist: SIHanatsuka
+BPM: 200
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_036/chaos]
+ID: 
+Character: Ivy
+Song: Time to Fight
+Artist: Paul Bazooka
+BPM: 180
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_037/chaos]
+ID: 
+Character: Ivy
+Song: conflict
+Artist: siromaru + cranky
+BPM: 160
+Charts: [EASY 6 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_038/chaos]
+ID: 
+Character: Ivy
+Song: FREEDOM DiVE
+Artist: xi
+BPM: 222.2
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ivy001_039/chaos]
+ID: 
+Character: Ivy
+Song: Summer Zephyr
+Artist: SUi
+BPM: 120
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/ivy001_040/chaos]
+ID: 
+Character: Ivy
+Song: Sovereign
+Artist: LureRabbit
+BPM: 160-220
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_041/chaos]
+ID: 
+Character: Ivy
+Song: paradigm-paragramme-program
+Artist: 繊(Apo11o program vs. お月さま交響曲) ft. じまんぐ
+BPM: 183
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_042/chaos]
+ID: 
+Character: Ivy
+Song: Secret Garden
+Artist: AILE
+BPM: 136
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ivy001_043/chaos]
+ID: 
+Character: Ivy
+Song: Halcyon
+Artist: xi
+BPM: 40-191
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_044/chaos]
+ID: 
+Character: Ivy
+Song: Drifted Fragments
+Artist: Codly
+BPM: 175
+Charts: [EASY 5 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_045/chaos]
+ID: 
+Character: Ivy
+Song: 地下の雑踏
+Artist: technoplanet
+BPM: 190
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ivy001_046/chaos]
+ID: 
+Character: Ivy
+Song: Dystopia
+Artist: 立花綾香
+BPM: 175
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_047/chaos]
+ID: 
+Character: Ivy
+Song: UTOPIA
+Artist: Tomggg
+BPM: 190
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_048/chaos]
+ID: 
+Character: Ivy
+Song: Heroic Age
+Artist: Cytus
+BPM: 140
+Charts: [EASY 4 => , HARD 9 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_049/chaos]
+ID: 
+Character: Ivy
+Song: AXION
+Artist: sakuzyo
+BPM: 160
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_050/chaos]
+ID: 
+Character: Ivy
+Song: First Gate
+Artist: NeLiME
+BPM: 175
+Charts: [EASY 6 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_051/chaos]
+ID: 
+Character: Ivy
+Song: Oriens
+Artist: ginkiha
+BPM: 140-185
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_052/chaos]
+ID: 
+Character: Ivy
+Song: The Last Illusion
+Artist: Kiryu
+BPM: 132
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ivy001_053/chaos]
+ID: 
+Character: Ivy
+Song: Visions
+Artist: Tsukasa
+BPM: 178
+Charts: [EASY 1 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ivy001_054/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Effervesce
+Artist: MELOIMAGE
+BPM: 94
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry002_001/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Chandelier XIII
+Artist: Ring
+BPM: 117
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_002/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Sunshine Duration
+Artist: Re:Brych VOC Sing Sing Rabbit
+BPM: 175
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_003/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Deep Dive
+Artist: MELOIMAGE
+BPM: 116
+Charts: [EASY 2 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry002_004/chaos]
+ID: 
+Character: Crystal PuNK
+Song: βinαrΨ
+Artist: Ring
+BPM: 168
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_005/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Dark Madness
+Artist: Shi Kuang Lee
+BPM: 160
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry002_006/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Darling Staring...
+Artist: technoplanet feat. はるの
+BPM: 198
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/cherry002_007/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Crimson Fate
+Artist: tetsuyanao feat. ROXI CHEN(渣泥ZANI)
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry002_008/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Familiar Craze
+Artist: MELOIMAGE
+BPM: 149
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry002_009/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Malstream
+Artist: MELOIMAGE
+BPM: 132
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_010/chaos]
+ID: 
+Character: Crystal PuNK
+Song: V.R.W (feat. shully)
+Artist: カラスヤサボウ
+BPM: 142
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_011/chaos]
+ID: 
+Character: Crystal PuNK
+Song: velkinta feat. Cikado & A-Tse
+Artist: EAjRock
+BPM: 160
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry002_012/chaos]
+ID: 
+Character: Crystal PuNK
+Song: The Cross (feat. Silvia Su)
+Artist: Lyc
+BPM: 120-134
+Charts: [EASY 4 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry002_013/chaos]
+ID: 
+Character: Crystal PuNK
+Song: 眷戀
+Artist: dizLike
+BPM: 142
+Charts: [EASY 3 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry002_014/chaos]
+ID: 
+Character: Crystal PuNK
+Song: Still (Piano Version)
+Artist: Rua feat. K
+BPM: 130
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/cherry002_015/chaos]
+ID: 
+Character: Vanessa
+Song: Anchor
+Artist: Iris ft. Victor Kong & Ruri Matsumura 
+BPM: 110-150
+Charts: [EASY 1 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/vanessa001_001/chaos]
+ID: 
+Character: Vanessa
+Song: syūten
+Artist: Apo11o"COLLAPSAR"program ft.大瀬良あい
+BPM: 76-96
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/vanessa001_002/chaos]
+ID: 
+Character: Vanessa
+Song: Rosa Rubus
+Artist: SIHanatsuka
+BPM: 148
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/vanessa001_003/chaos]
+ID: 
+Character: Vanessa
+Song: XYZ
+Artist: technoplanet
+BPM: 142-154
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/vanessa001_004/chaos]
+ID: 
+Character: Vanessa
+Song: II-V
+Artist: Ring
+BPM: 150
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_005/chaos]
+ID: 
+Character: Vanessa
+Song: Chaos and Abyss -3rd Movement-
+Artist: Ayatsugu_Revolved
+BPM: 180
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/vanessa001_006/chaos]
+ID: 
+Character: Vanessa
+Song: Duality
+Artist: 3R2
+BPM: 160
+Charts: [EASY 3 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/vanessa001_007/chaos]
+ID: 
+Character: Vanessa
+Song: Ra
+Artist: 溝口ゆうま feat. テヅカ
+BPM: 129-226
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/vanessa001_008/chaos]
+ID: 
+Character: Vanessa
+Song: CHAOS //System Offline//
+Artist: Cytus
+BPM: 140
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_009/chaos]
+ID: 
+Character: Vanessa
+Song: V. //System Offline//
+Artist: Cytus
+BPM: 150
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/vanessa001_010/chaos]
+ID: 
+Character: Vanessa
+Song: II
+Artist: Cytus
+BPM: 130-150
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/vanessa001_011/chaos]
+ID: 
+Character: Vanessa
+Song: Used to be
+Artist: KIVΛ
+BPM: 140
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/vanessa001_012/chaos]
+ID: 
+Character: Vanessa
+Song: The Whole Rest
+Artist: KIVΛ
+BPM: 157
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_013/chaos]
+ID: 
+Character: Vanessa
+Song: Blessing Reunion
+Artist: AILE
+BPM: 136
+Charts: [EASY 2 => , HARD 5 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_014/chaos]
+ID: 
+Character: Vanessa
+Song: 3:00 a.m.
+Artist: aioi feat. KAMATA JUNKO
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_015/chaos]
+ID: 
+Character: Vanessa
+Song: Installation
+Artist: VILA
+BPM: 134
+Charts: [EASY 2 => , HARD 4 => , CHAOS 8 => https://ct2view.the-kitti.com/chartlist/vanessa001_017/chaos]
+ID: 
+Character: Vanessa
+Song: Risoluto
+Artist: Freeleaves
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/vanessa001_018/chaos]
+ID: 
+Character: Vanessa
+Song: Risoluto
+Artist: VILA
+BPM: 155
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_019/chaos]
+ID: 
+Character: Vanessa
+Song: Incyde
+Artist: YbeLL
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/vanessa001_021/chaos]
+ID: 
+Character: Vanessa
+Song: THE BEGINNING
+Artist: Cytus
+BPM: Varies
+Charts: [EASY 3 => https://ct2view.the-kitti.com/chartlist/vanessa001_022/easy, HARD 5 => https://ct2view.the-kitti.com/chartlist/vanessa001_022/hard, CHAOS 12 => https://ct2view.the-kitti.com/chartlist/vanessa001_022/chaos]
+ID: 
+Character: Vanessa
+Song: Cocytus
+Artist: Cytus
+BPM: 78-100
+Charts: [EASY 2 => , HARD 6 => , CHAOS 8 => https://ct2view.the-kitti.com/chartlist/vanessa001_023/chaos]
+ID: 
+Character: Bo Bo
+Song: Äventyr
+Artist: GrandThaw / Rigel Theatre
+BPM: 114-132
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_001/chaos]
+ID: 
+Character: Bo Bo
+Song: NORDLYS
+Artist: Rigel Theatre feat.ミーウェル
+BPM: 66-134
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_002/chaos]
+ID: 
+Character: Bo Bo
+Song: Snow Blossom
+Artist: yuritoworks.
+BPM: 140
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/bobo001_003/chaos]
+ID: 
+Character: Bo Bo
+Song: Quinsialyn
+Artist: MYUKKE.
+BPM: 130
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/bobo001_004/chaos]
+ID: 
+Character: Bo Bo
+Song: 黎明-REIMEI-
+Artist: Tatsh
+BPM: 154
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_005/chaos]
+ID: 
+Character: Bo Bo
+Song: End of fireworks
+Artist: MINEXO
+BPM: 140
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/bobo001_006/chaos]
+ID: 
+Character: Bo Bo
+Song: 神様と羊飼い
+Artist: テヅカ
+BPM: 127
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/bobo001_007/chaos]
+ID: 
+Character: Bo Bo
+Song: IBUKI
+Artist: Analog Digital
+BPM: 138
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_008/chaos]
+ID: 
+Character: Bo Bo
+Song: The breath of the soul
+Artist: Ryo Arue
+BPM: 132
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/bobo001_009/chaos]
+ID: 
+Character: Bo Bo
+Song: Firstborns
+Artist: SOTUI feat. Iris
+BPM: 175
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/bobo001_010/chaos]
+ID: 
+Character: Bo Bo
+Song: Heliopolis Project
+Artist: Sherwin
+BPM: 140
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_011/chaos]
+ID: 
+Character: Bo Bo
+Song: TSUBAKI
+Artist: 影虎
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/bobo001_012/chaos]
+ID: 
+Character: Bo Bo
+Song: Vox Enchanted
+Artist: アマギセーラ
+BPM: 130
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/bobo001_013/chaos]
+ID: 
+Character: Bo Bo
+Song: King of Desert
+Artist: Sync
+BPM: 100
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_014/chaos]
+ID: 
+Character: Bo Bo
+Song: tRinity saga
+Artist: Apo11o"比古保之"program ft.Sennzai
+BPM: 201
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/bobo001_015/chaos]
+ID: 
+Character: Bo Bo
+Song: Tomb Robber
+Artist: TERU FOX
+BPM: 160-180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/bobo001_016/chaos]
+ID: 
+Character: Bo Bo
+Song: New Quest
+Artist: 3R2
+BPM: 122
+Charts: [EASY 3 => , HARD 5 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_017/chaos]
+ID: 
+Character: Bo Bo
+Song: バステット (Cytus II Edit)
+Artist: Jehezukiel
+BPM: 148
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/bobo001_018/chaos]
+ID: 
+Character: Graff.J
+Song: Sdorica The Story Unfolds
+Artist: Sdorica
+BPM: 37.24-90
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/neko001_013/chaos]
+ID: 
+Character: Graff.J
+Song: Hesitant Blade
+Artist: Sdorica
+BPM: 81-141
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_014/chaos]
+ID: 
+Character: Graff.J
+Song: FUJIN Rumble
+Artist: COSIO(ZUNTATA) from GROOVE COASTER
+BPM: 192
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_023/chaos]
+ID: 
+Character: Graff.J
+Song: Caliburne ～Story of the Legendary sword～
+Artist: Project Grimoire
+BPM: 140-190
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_040/chaos]
+ID: 
+Character: Graff.J
+Song: DON'T STOP ROCKIN'
+Artist: EB (aka EarBreaker)
+BPM: 140
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_041/chaos]
+ID: 
+Character: Graff.J
+Song: Glorious Crown
+Artist: xi
+BPM: 225.5
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_042/chaos]
+ID: 
+Character: Graff.J
+Song: Oshama Scramble!
+Artist: t+pazolite
+BPM: 190
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_043/chaos]
+ID: 
+Character: Graff.J
+Song: 超常マイマイン
+Artist: ナユタン星人
+BPM: 178
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_044/chaos]
+ID: 
+Character: Graff.J
+Song: BlythE
+Artist: M2U
+BPM: 180
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_045/chaos]
+ID: 
+Character: Graff.J
+Song: glory day
+Artist: BEXTER x Mycin.T
+BPM: 162
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_046/chaos]
+ID: 
+Character: Graff.J
+Song: OblivioN
+Artist: ESTi
+BPM: 141
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_047/chaos]
+ID: 
+Character: Graff.J
+Song: Play the Future
+Artist: Urbatonic Chopsticks
+BPM: 128
+Charts: [EASY 2 => , HARD 5 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_048/chaos]
+ID: 
+Character: Graff.J
+Song: We're All Gonna Die
+Artist: Paul Bazooka
+BPM: 180
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_049/chaos]
+ID: 
+Character: Graff.J
+Song: Ask to Wind Live Mix
+Artist: Forte Escape
+BPM: 210
+Charts: [EASY 4 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_050/chaos]
+ID: 
+Character: Graff.J
+Song: End of the Moonlight
+Artist: Forte Escape
+BPM: 155
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_051/chaos]
+ID: 
+Character: Graff.J
+Song: Hello Pinky
+Artist: NieN
+BPM: 141
+Charts: [EASY 2 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_052/chaos]
+ID: 
+Character: Graff.J
+Song: Nightmare
+Artist: M2U
+BPM: 190
+Charts: [EASY 5 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_053/chaos]
+ID: 
+Character: Graff.J
+Song: U.A.D
+Artist: HAYAKO
+BPM: 129
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_054/chaos]
+ID: 
+Character: Graff.J
+Song: Pounding Destination
+Artist: Ayatsugu_Revolved
+BPM: 145
+Charts: [EASY 2 => , HARD 4 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/neko001_056/chaos]
+ID: 
+Character: Graff.J
+Song: Stewrica -Cross-
+Artist: Ayatsugu_Otowa
+BPM: 155
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_057/chaos]
+ID: 
+Character: Graff.J
+Song: Hop Step Adventure☆
+Artist: ああああ茶漬け
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_058/chaos]
+ID: 
+Character: Graff.J
+Song: Silent Voice
+Artist: Nardis
+BPM: 125
+	
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_059/chaos]
+ID: 
+Character: Graff.J
+Song: Spring
+Artist: Rave Cyanide, RiraN
+BPM: 132
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko001_060/chaos]
+ID: 
+Character: Graff.J
+Song: dynamo
+Artist: Hidra-Xjeil
+BPM: 160
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_061/chaos]
+ID: 
+Character: Graff.J
+Song: Hello Days
+Artist: tomo & ino(cronoize)
+BPM: 138
+Charts: [EASY 2 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_062/chaos]
+ID: 
+Character: Graff.J
+Song: Interstellar Experience
+Artist: polysha + daph
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_063/chaos]
+ID: 
+Character: Graff.J
+Song: FUSE
+Artist: Titancube
+BPM: 190
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_064/chaos]
+ID: 
+Character: Graff.J
+Song: Gigantic Saga
+Artist: Paul Bazooka
+BPM: 128
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_065/chaos]
+ID: 
+Character: Graff.J
+Song: popotnik ~ The Traveller of Ljubljana
+Artist: LhoU
+BPM: 130
+Charts: [EASY 5 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_066/chaos]
+ID: 
+Character: Graff.J
+Song: Ascension to Heaven
+Artist: xi
+BPM: 190-200
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko001_067/chaos]
+ID: 
+Character: Graff.J
+Song: Lifill
+Artist: Feryquitous Feat Sennzai
+BPM: 185
+Charts: [EASY 2 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_068/chaos]
+ID: 
+Character: Graff.J
+Song: そんなに私を期待きせないで
+Artist: 上村叶恵
+BPM: 160
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_069/chaos]
+ID: 
+Character: Graff.J
+Song: Fading Star
+Artist: ginkiha
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/neko001_070/chaos]
+ID: 
+Character: Graff.J
+Song: Magical Toy Box
+Artist: Shiron + xi
+BPM: 184
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko001_071/chaos]
+ID: 
+Character: Graff.J
+Song: Until the Blue Moon Rises
+Artist: Plutian
+BPM: 138
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko001_072/chaos]
+ID: 
+Character: Graff.J
+Song: Lights of Muse
+Artist: Ayatsugu_Otowa
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_007/chaos]
+ID: 
+Character: Graff.J
+Song: Stargazer
+Artist: a_hisa
+BPM: 150
+Charts: [EASY 1 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/graffj001_008/chaos]
+ID: 
+Character: Graff.J
+Song: Blackest Luxury Car
+Artist: Chicala Lpis
+BPM: 178
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/graffj001_009/chaos]
+ID: 
+Character: Graff.J
+Song: 粉骨砕身カジノゥ
+Artist: モリモリあつし
+BPM: 132-198
+Charts: [EASY 5 => , HARD 10 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_010/chaos]
+ID: 
+Character: Graff.J
+Song: 時計の部屋と精神世界
+Artist: a_hisa
+BPM: 180
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_011/chaos]
+ID: 
+Character: Graff.J
+Song: XING
+Artist: ginkiha
+BPM: 177
+Charts: [EASY 5 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/graffj001_012/chaos]
+ID: 
+Character: Graff.J
+Song: Brave My Heart
+Artist: uma feat.ましろ
+BPM: 165
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/graffj001_013/chaos]
+ID: 
+Character: Graff.J
+Song: Final Step!
+Artist: Lime
+BPM: 180
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/graffj001_014/chaos]
+ID: 
+Character: Graff.J
+Song: Medusa
+Artist: HiTECH NINJA
+BPM: 165
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_015/chaos]
+ID: 
+Character: Graff.J
+Song: XODUS
+Artist: DJ Myosuke & Gram
+BPM: 202
+Charts: [EASY 6 => https://ct2view.the-kitti.com/chartlist/graffj001_016/easy, HARD 10 => https://ct2view.the-kitti.com/chartlist/graffj001_016/hard, CHAOS 15 => https://ct2view.the-kitti.com/chartlist/graffj001_016/chaos]
+ID: 
+Character: Graff.J
+Song: The 89's Momentum
+Artist: MYUKKE.
+BPM: 128
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/graffj001_017/chaos]
+ID: 
+Character: Graff.J
+Song: The 90's Decision
+Artist: MYUKKE.
+BPM: 128
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_018/chaos]
+ID: 
+Character: Graff.J
+Song: 双龍飛閃-Dual Dragoon-
+Artist: Daisuke Ohnuma
+BPM: 212
+Charts: [EASY 5 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/graffj001_019/chaos]
+ID: 
+Character: Graff.J
+Song: Like Asian Spirit
+Artist: Valunava
+BPM: 143
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_020/chaos]
+ID: 
+Character: Graff.J
+Song: Tsukiyura
+Artist: mitssi
+BPM: 145
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_021/chaos]
+ID: 
+Character: Graff.J
+Song: BREAK FREE
+Artist: Tsuko G.
+BPM: 200
+Charts: [EASY 5 => , HARD 10 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_022/chaos]
+ID: 
+Character: Graff.J
+Song: DON'T LISTEN TO THIS WHILE DRIVING
+Artist: Tsuko G.
+BPM: 160
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/graffj001_023/chaos]
+ID: 
+Character: Graff.J
+Song: RESET MAN
+Artist: Tsuko G.
+BPM: 150
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/graffj001_024/chaos]
+ID: 
+Character: Graff.J
+Song: PERSONA
+Artist: Tsuko G.
+BPM: 128
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/graffj001_025/chaos]
+ID: 
+Character: Graff.J
+Song: OUT OF THE MATRIX
+Artist: Tsuko G.
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/graffj001_026/chaos]
+ID: 
+Character: Graff.J
+Song: Kokoro Odoro
+Artist: Tomggg (feat. m/lue.)
+BPM: 195
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/graffj001_062/chaos]
+ID: 
+Character: Graff.J
+Song: Dandelion Girs, Dandelion Boys
+Artist: Mili
+BPM: 166
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/graffj001_063/chaos]
+ID: 
+Character: Amiya
+Song: Boiling Blood
+Artist: Jason Walsh
+BPM: 163
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/amiya001_001/chaos]
+ID: 
+Character: Amiya
+Song: Operation Pyrite
+Artist: Jason Walsh
+BPM: 132
+Charts: [EASY 5 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/amiya001_002/chaos]
+ID: 
+Character: Amiya
+Song: Keep the torch
+Artist: Obadiah Brown-Beach
+BPM: 125
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/amiya001_003/chaos]
+ID: 
+Character: Amiya
+Song: ALIVE
+Artist: Obadiah Brown-Beach
+BPM: 125
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/amiya001_004/chaos]
+ID: 
+Character: Amiya
+Song: Operation Blade
+Artist: Obadiah Brown-Beach
+BPM: 125
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/amiya001_005/chaos]
+ID: 
+Character: Amiya
+Song: Evolutionary Mechanization
+Artist: Obadiah Brown-Beach
+BPM: 120
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/amiya001_006/chaos]
+ID: 
+Character: Amiya
+Song: El Brillo Solatario
+Artist: Steven Grove
+BPM: 200
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/amiya001_007/chaos]
+ID: 
+Character: Amiya
+Song: ManiFesto
+Artist: David Wesbom
+BPM: 155
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/amiya001_008/chaos]
+ID: 
+Character: Amiya
+Song: Speed of Light
+Artist: DJ Okawari
+BPM: 112
+Charts: [EASY 4 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/amiya001_009/chaos]
+ID: 
+Character: Amiya
+Song: Renegade
+Artist: Jason Walsh
+BPM: 154
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/amiya001_010/chaos]
+ID: 
+Character: Kaf
+Song: 心臟と絡繰
+Artist: 花譜
+BPM: 170
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/kaf001_001/chaos]
+ID: 
+Character: Kaf
+Song: メルの黃昏
+Artist: 花譜
+BPM: 200
+Charts: [EASY 4 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/kaf001_002/chaos]
+ID: 
+Character: Kaf
+Song: 夜行バスにて
+Artist: 花譜
+BPM: 174
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/kaf001_003/chaos]
+ID: 
+Character: Kaf
+Song: 未確認少女進行形
+Artist: 花譜
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/kaf001_004/chaos]
+ID: 
+Character: Kaf
+Song: 糸
+Artist: 花譜
+BPM: 194
+Charts: [EASY 5 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/kaf001_005/chaos]
+ID: 
+Character: Kaf
+Song: 帰り路
+Artist: 花譜
+BPM: 180
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/kaf001_006/chaos]
+ID: 
+Character: Kaf
+Song: 過去を喰らう
+Artist: 花譜
+BPM: 187
+Charts: [EASY 3 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/kaf001_007/chaos]
+ID: 
+Character: Kaf
+Song: 雛鳥
+Artist: 花譜
+BPM: 85
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/kaf001_008/chaos]
+ID: 
+Character: Kaf
+Song: そして花になる
+Artist: 花譜
+BPM: 93
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/kaf001_009/chaos]
+ID: 
+Character: Kaf
+Song: 不可解（Cytus II Edit.）
+Artist: 花譜
+BPM: 134
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/kaf001_010/chaos]
+ID: 
+Character: Alice
+Song: Friction
+Artist: HAMO from Mili
+BPM: 130
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/alice001_001/chaos]
+ID: 
+Character: Alice
+Song: Legacy
+Artist: switchworks
+BPM: 120
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/alice001_002/chaos]
+ID: 
+Character: Alice
+Song: Living In The One
+Artist: Edmund Fu
+BPM: 30-140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/alice001_003/chaos]
+ID: 
+Character: Alice
+Song: YUBIKIRI-GENMAN
+Artist: Mili
+BPM: 31-146
+Charts: [EASY 2 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/alice001_004/chaos]
+ID: 
+Character: Alice
+Song: I hate to tell you
+Artist: Yuk-cheung Chun
+BPM: 120
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/alice001_005/chaos]
+ID: 
+Character: Alice
+Song: Utopiosphere
+Artist: Mili
+BPM: 176
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/alice001_006/chaos]
+ID: 
+Character: Alice
+Song: Marigold
+Artist: M2U
+BPM: 160
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/alice001_007/chaos]
+ID: 
+Character: Alice
+Song: The Beautiful Moonlight
+Artist: Mai Aoyagi
+BPM: 33.7-74
+Charts: [EASY 2 => , HARD 7 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/alice001_008/chaos]
+ID: 
+Character: Alice
+Song: 都市の呼吸
+Artist: technoplanet feat. 岡聡志
+BPM: 120
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/alice001_009/chaos]
+ID: 
+Character: Alice
+Song: To next page
+Artist: kamome sano
+BPM: 176
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/alice001_010/chaos]
+ID: 
+Character: Alice
+Song: ANiMA
+Artist: xi
+BPM: 183.5
+Charts: [EASY 5 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/alice001_011/chaos]
+ID: 
+Character: Hans
+Song: Sunset
+Artist: Alex Vourtsanis
+BPM: 180
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/hans001_001/chaos]
+ID: 
+Character: Hans
+Song: Ephemeral
+Artist: Mili
+BPM: 162
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/hans001_002/chaos]
+ID: 
+Character: Hans
+Song: Ruins in the Mirage
+Artist: SIHanatsuka & Yukino
+BPM: 29-124
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/hans001_003/chaos]
+ID: 
+Character: Hans
+Song: Run Go Run
+Artist: Kaeru Underground
+BPM: 138-180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/hans001_004/chaos]
+ID: 
+Character: Hans
+Song: Platinum
+Artist: Sta
+BPM: 100
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/hans001_005/chaos]
+ID: 
+Character: Hans
+Song: Leviathan
+Artist: NeLiME
+BPM: 36-185
+Charts: [EASY 4 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/hans001_006/chaos]
+ID: 
+Character: Hans
+Song: Lost in the Nowhere
+Artist: Rave Cyanide × Lunatic Sounds
+BPM: 160
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/hans001_007/chaos]
+ID: 
+Character: Hans
+Song: Dream
+Artist: Rabpit
+BPM: 150
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/hans001_008/chaos]
+ID: 
+Character: Hans
+Song: Path and Period
+Artist: Jun Kuroda
+BPM: 175
+Charts: [EASY 5 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/hans001_009/chaos]
+ID: 
+Character: Hans
+Song: Aragami
+Artist: xi
+BPM: 48-196
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/hans001_010/chaos]
+ID: 
+Character: Hans
+Song: Rhuzerv
+Artist: Feryquitous feat.Sennzai
+BPM: 191
+Charts: [EASY 5 => , HARD 8 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/hans001_011/chaos]
+ID: 
+Character: Kizuna AI
+Song: AIAIAI (feat. 中田ヤスタカ)
+Artist: Kizuna AI
+BPM: 128
+Charts: [EASY 5 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ai001_001/chaos]
+ID: 
+Character: Kizuna AI
+Song: Hello, Morning (Prod. Nor)
+Artist: Kizuna AI
+BPM: 160
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ai001_002/chaos]
+ID: 
+Character: Kizuna AI
+Song: future base (Prod. Yunomi)
+Artist: Kizuna AI
+BPM: 174
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ai001_003/chaos]
+ID: 
+Character: Kizuna AI
+Song: new world (Prod. Yunomi)
+Artist: Kizuna AI
+BPM: 160
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ai001_004/chaos]
+ID: 
+Character: Kizuna AI
+Song: miracle step (Prod. Nor)
+Artist: Kizuna AI
+BPM: 110
+Charts: [EASY 3 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ai001_005/chaos]
+ID: 
+Character: Kizuna AI
+Song: meet you (Prod. DÉ DÉ MOUSE)
+Artist: Kizuna AI
+BPM: 128
+Charts: [EASY 3 => , HARD 5 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ai001_006/chaos]
+ID: 
+Character: Kizuna AI
+Song: mirai (Prod. ☆Taku Takahashi)
+Artist: Kizuna AI
+BPM: 174
+Charts: [EASY 2 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/ai001_007/chaos]
+ID: 
+Character: Kizuna AI
+Song: over the reality (Prod. Avec Avec)
+Artist: Kizuna AI
+BPM: 110
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ai001_008/chaos]
+ID: 
+Character: Kizuna AI
+Song: melty world (Prod. TeddyLoid)
+Artist: Kizuna AI
+BPM: 128
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ai001_009/chaos]
+ID: 
+Character: Kizuna AI
+Song: hello, alone (Prod. MATZ)
+Artist: Kizuna AI
+BPM: 130
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/ai001_010/chaos]
+ID: 
+Character: Miku
+Song: Blue Star
+Artist: 八王子P
+BPM: 132
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/miku001_001/chaos]
+ID: 
+Character: Miku
+Song: BREAK IT
+Artist: 雄之助
+BPM: 138
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/miku001_002/chaos]
+ID: 
+Character: Miku
+Song: Can't Make a Song!!
+Artist: beat_shobon
+BPM: 100-165
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/miku001_003/chaos]
+ID: 
+Character: Miku
+Song: Miku
+Artist: Anamanaguchi
+BPM: 128
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/miku001_004/chaos]
+ID: 
+Character: Miku
+Song: Sharing The World
+Artist: BIGHEAD
+BPM: 129
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/miku001_005/chaos]
+ID: 
+Character: Miku
+Song: Venus di Ujung Jari
+Artist: mohax (VOCALO.ID)
+BPM: 120.5
+Charts: [EASY 1 => , HARD 5 => , CHAOS 8 => https://ct2view.the-kitti.com/chartlist/miku001_006/chaos]
+ID: 
+Character: Miku
+Song: ラッキー☆オーブ
+Artist: emon(Tes.)
+BPM: 126
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/miku001_007/chaos]
+ID: 
+Character: Miku
+Song: 魔法みたいなミュージック！
+Artist: OSTER project
+BPM: 210
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/miku001_008/chaos]
+ID: 
+Character: Miku
+Song: 月西江
+Artist: solpie
+BPM: 70
+Charts: [EASY 2 => , HARD 5 => , CHAOS 8 => https://ct2view.the-kitti.com/chartlist/miku001_009/chaos]
+ID: 
+Character: Miku
+Song: Ten Thousand Stars
+Artist: CircusP
+BPM: 128
+Charts: [EASY 4 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/miku001_010/chaos]
+ID: 
+Character: Miku
+Song: Glass Wall
+Artist: GuitarHeroPianoZero
+BPM: 140
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/miku001_011/chaos]
+ID: 
+Character: Miku
+Song: Cybernetic
+Artist: 雄之助 × Circus-P
+BPM: 132
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/miku001_012/chaos]
+ID: 
+Character: Miku
+Song: Decade
+Artist: Dixie Flatline
+BPM: 127
+Charts: [EASY 3 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/miku001_013/chaos]
+ID: 
+Character: Miku
+Song: ラッキー☆オーブ (3R2 Remix)
+Artist: emon(Tes.)
+BPM: 130
+Charts: [EASY 4 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/miku001_014/chaos]
+ID: 
+Character: Ilka
+Song: Silver Lotus
+Artist: satella
+BPM: 188
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/ilka001_001/chaos]
+ID: 
+Character: Ilka
+Song: 3G0
+Artist: Katali
+BPM: 174
+Charts: [EASY 5 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ilka001_002/chaos]
+ID: 
+Character: Ilka
+Song: Rebellion Trigger
+Artist: xi
+BPM: 212
+Charts: [EASY 6 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ilka001_003/chaos]
+ID: 
+Character: Ilka
+Song: Alb
+Artist: Avans
+BPM: 140
+Charts: [EASY 2 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ilka001_004/chaos]
+ID: 
+Character: Ilka
+Song: CODE:RED
+Artist: Powerless
+BPM: 220
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ilka001_005/chaos]
+ID: 
+Character: Ilka
+Song: Levolution
+Artist: MIDInco
+BPM: 175
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ilka001_006/chaos]
+ID: 
+Character: Ilka
+Song: Elysian Volitation
+Artist: Hundotte
+BPM: 190
+Charts: [EASY 5 => , HARD 10 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ilka001_007/chaos]
+ID: 
+Character: Ilka
+Song: History DstrØyeR
+Artist: 溝口ゆうま feat. 大瀬良あい meets まるもこ
+BPM: 170
+Charts: [EASY 6 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ilka001_008/chaos]
+ID: 
+Character: Ilka
+Song: Victims of Will
+Artist: Jun Kuroda
+BPM: 200
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ilka001_009/chaos]
+ID: 
+Character: Ilka
+Song: Re:The END -再-
+Artist: Apo11o"Æther"program ft.じまんぐ×大瀬良あい
+BPM: 110-150
+Charts: [EASY 4 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ilka001_010/chaos]
+ID: 
+Character: Ilka
+Song: IΛVΛVI
+Artist: Blacklolita
+BPM: 160
+Charts: [EASY 3 => , HARD 6 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/ilka001_011/chaos]
+ID: 
+Character: Ilka
+Song: Oneiroi
+Artist: Freeleaves
+BPM: 165
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ilka001_012/chaos]
+ID: 
+Character: Ilka
+Song: Lamentation
+Artist: ARForest
+BPM: 195
+Charts: [EASY 6 => , HARD 10 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/ilka001_013/chaos]
+ID: 
+Character: Ilka
+Song: Samuel's Farewell
+Artist: Sobrem
+BPM: 135
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/ilka001_014/chaos]
+ID: 
+Character: Ilka
+Song: Noir
+Artist: Avans
+BPM: 143
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/ilka001_015/chaos]
+ID: 
+Character: Xenon
+Song: INSPION
+Artist: INSPION
+BPM: 148
+Charts: [EASY 4 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_001/chaos]
+ID: 
+Character: Xenon
+Song: Whispers in my Head
+Artist: AssHoleBand
+BPM: 175-180
+Charts: [EASY 2 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_002/chaos]
+ID: 
+Character: Xenon
+Song: Return
+Artist: L DERCoLoR
+BPM: 205
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/xenon001_003/chaos]
+ID: 
+Character: Xenon
+Song: concentric circles
+Artist: Yichen
+BPM: 190
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/xenon001_004/chaos]
+ID: 
+Character: Xenon
+Song: Fighting
+Artist: Claymore
+BPM: 170
+Charts: [EASY 2 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/xenon001_005/chaos]
+ID: 
+Character: Xenon
+Song: To The Light
+Artist: FUTURE AFTER A SECOND
+BPM: 130
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/xenon001_006/chaos]
+ID: 
+Character: Xenon
+Song: Phantom Razor
+Artist: Daisuke Kurosawa
+BPM: 183
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_007/chaos]
+ID: 
+Character: Xenon
+Song: Black Hole
+Artist: A-Tse & KIVΛ
+BPM: 135
+Charts: [EASY 2 => , HARD 4 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/xenon001_008/chaos]
+ID: 
+Character: Xenon
+Song: SAMURAI
+Artist: Kobayashi Project
+BPM: 160
+Charts: [EASY 4 => , HARD 9 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_009/chaos]
+ID: 
+Character: Xenon
+Song: IOLITE-SUNSTONE
+Artist: Hideyuki Ono x Daisuke Kurosawa
+BPM: 164
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/xenon001_010/chaos]
+ID: 
+Character: Xenon
+Song: Sairai
+Artist: Shinichi Kobayashi
+BPM: 95
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/xenon001_011/chaos]
+ID: 
+Character: Xenon
+Song: Ultimate feat. 放課後のあいつ
+Artist: やいり
+BPM: 190
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_012/chaos]
+ID: 
+Character: Xenon
+Song: Karma
+Artist: OBSESS
+BPM: 138
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/xenon001_013/chaos]
+ID: 
+Character: Xenon
+Song: Chosen
+Artist: 既定印象
+BPM: 170
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/xenon001_014/chaos]
+ID: 
+Character: Xenon
+Song: Violet
+Artist: Yohei Kimura
+BPM: 190
+Charts: [EASY 2 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/xenon001_015/chaos]
+ID: 
+Character: Xenon
+Song: Asylum
+Artist: Zangief
+BPM: 160
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/xenon001_016/chaos]
+ID: 
+Character: Xenon
+Song: Tiny Giant Goes To The Sea
+Artist: Kyo-ta
+BPM: 100
+Charts: [EASY 5 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/xenon001_017/chaos]
+ID: 
+Character: ConneR
+Song: Xiorc
+Artist: Team Grimoire+あま猫
+BPM: 160-195
+Charts: [EASY 4 => , HARD 10 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/conner001_001/chaos]
+ID: 
+Character: ConneR
+Song: REBELLIUM
+Artist: Section9
+BPM: 201
+Charts: [EASY 3 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/conner001_002/chaos]
+ID: 
+Character: ConneR
+Song: Imprinting
+Artist: Sakuzyo
+BPM: 175
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/conner001_003/chaos]
+ID: 
+Character: ConneR
+Song: Gekkouka
+Artist: Masanori Akita
+BPM: 158
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/conner001_004/chaos]
+ID: 
+Character: ConneR
+Song: Light of Buenos Aires
+Artist: Masanori Akita
+BPM: 150
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/conner001_005/chaos]
+ID: 
+Character: ConneR
+Song: tondari-hanetari
+Artist: Yuichi Tsuchiya
+BPM: 174-176
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/conner001_006/chaos]
+ID: 
+Character: ConneR
+Song: Abduction
+Artist: VILA
+BPM: 158
+Charts: [EASY 4 => , HARD 8 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/conner001_007/chaos]
+ID: 
+Character: ConneR
+Song: Nostalgia Sonatina
+Artist: Ice
+BPM: 160
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/conner001_008/chaos]
+ID: 
+Character: ConneR
+Song: I luv U
+Artist: SQUAR
+BPM: 173
+Charts: [EASY 3 => , HARD 7 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/conner001_009/chaos]
+ID: 
+Character: ConneR
+Song: Instinct
+Artist: Sakuzyo
+BPM: 180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/conner001_010/chaos]
+ID: 
+Character: ConneR
+Song: Floor of Lava
+Artist: Ice
+BPM: 180
+Charts: [EASY 6 => , HARD 10 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/conner001_011/chaos]
+ID: 
+Character: ConneR
+Song: Aphasia
+Artist: Team Grimoire
+BPM: 155
+Charts: [EASY 2 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/conner001_012/chaos]
+ID: 
+Character: ConneR
+Song: Olympia
+Artist: Nardis
+BPM: 160
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/conner001_013/chaos]
+ID: 
+Character: ConneR
+Song: Demetrius
+Artist: James Landino
+BPM: 128
+Charts: [EASY 2 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/conner001_014/chaos]
+ID: 
+Character: ConneR
+Song: L'Ultima Cena
+Artist: Laur
+BPM: 175
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/conner001_015/chaos]
+ID: 
+Character: ConneR
+Song: Deus Ex Machina
+Artist: Powerless
+BPM: 160
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/conner001_016/chaos]
+ID: 
+Character: ConneR
+Song: Fur War, Pur War
+Artist: N.M.S.T.
+BPM: 150
+Charts: [EASY 4 => , HARD 8 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/conner001_017/chaos]
+ID: 
+Character: ConneR
+Song: Re:boot
+Artist: Powerless
+BPM: 196
+Charts: [EASY 6 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/conner001_018/chaos]
+ID: 
+Character: ConneR
+Song: Last Landing
+Artist: yuritoworks.
+BPM: 130
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/conner001_019/chaos]
+ID: 
+Character: Cherry
+Song: Scenery in your eyes
+Artist: EAjRock
+BPM: 172
+Charts: [EASY 2 => , HARD 6 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/cherry001_001/chaos]
+ID: 
+Character: Cherry
+Song: LEVEL4
+Artist: 空野青空
+BPM: 210
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry001_002/chaos]
+ID: 
+Character: Cherry
+Song: Living for you (Andy Tunstall remix)
+Artist: Kat Penkin
+BPM: 170
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry001_003/chaos]
+ID: 
+Character: Cherry
+Song: I'M NOT
+Artist: nowhere 此時刻
+BPM: 118
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry001_004/chaos]
+ID: 
+Character: Cherry
+Song: Stop at nothing (Andy Tunstall remix)
+Artist: Kat Penkin
+BPM: 170
+Charts: [EASY 2 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry001_005/chaos]
+ID: 
+Character: Cherry
+Song: RETRIEVE
+Artist: MELOIMAGE
+BPM: 180
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry001_006/chaos]
+ID: 
+Character: Cherry
+Song: Still
+Artist: Rua feat. K
+BPM: 156
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry001_007/chaos]
+ID: 
+Character: Cherry
+Song: CREDENCE
+Artist: MELOIMAGE
+BPM: 204
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry001_008/chaos]
+ID: 
+Character: Cherry
+Song: SYSTEMFEIT
+Artist: MELOIMAGE
+BPM: 185
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/cherry001_009/chaos]
+ID: 
+Character: Cherry
+Song: hunted
+Artist: Night Keepers feat Sylvia
+BPM: 212
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry001_010/chaos]
+ID: 
+Character: Cherry
+Song: Capture me
+Artist: ヒゲドライバー feat. shully
+BPM: 155
+Charts: [EASY 2 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/cherry001_011/chaos]
+ID: 
+Character: Cherry
+Song: Realize
+Artist: Persona
+BPM: 181
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/cherry001_012/chaos]
+ID: 
+Character: JOE
+Song: Childish
+Artist: KillerBlood
+BPM: 174
+Charts: [EASY 4 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/joe001_001/chaos]
+ID: 
+Character: JOE
+Song: Turnstile Jumper
+Artist: Frums
+BPM: 321
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/joe001_002/chaos]
+ID: 
+Character: JOE
+Song: Juicy Gossip
+Artist: good-cool
+BPM: 190
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/joe001_003/chaos]
+ID: 
+Character: JOE
+Song: Standby for Action
+Artist: 3R2
+BPM: 128
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/joe001_004/chaos]
+ID: 
+Character: JOE
+Song: Open the Game
+Artist: Jiro
+BPM: 126
+Charts: [EASY 4 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/joe001_005/chaos]
+ID: 
+Character: JOE
+Song: Hydrangea
+Artist: Tatsh
+BPM: 214
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/joe001_006/chaos]
+ID: 
+Character: JOE
+Song: Absolutely
+Artist: Shi Kuang Lee & Pico
+BPM: 125
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/joe001_007/chaos]
+ID: 
+Character: JOE
+Song: Higher and Higher
+Artist: Jiro
+BPM: 230
+Charts: [EASY 3 => , HARD 6 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/joe001_008/chaos]
+ID: 
+Character: JOE
+Song: Take me to the Future
+Artist: Haamoja
+BPM: 125
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/joe001_009/chaos]
+ID: 
+Character: JOE
+Song: Nautilus
+Artist: satella
+BPM: 108
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/joe001_010/chaos]
+ID: 
+Character: JOE
+Song: Bass Music
+Artist: Umziky
+BPM: 130
+Charts: [EASY 2 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/joe001_011/chaos]
+ID: 
+Character: Sagar
+Song: Amenemhat
+Artist: Yesod (litmus* + Rabbit House + A. Ki)
+BPM: 155
+Charts: [EASY 5 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_001/chaos]
+ID: 
+Character: Sagar
+Song: Elysium
+Artist: SprightS
+BPM: 140
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/sagar001_002/chaos]
+ID: 
+Character: Sagar
+Song: Immram Brain
+Artist: 大嶋啓之
+BPM: 116
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/sagar001_003/chaos]
+ID: 
+Character: Sagar
+Song: Space Alien
+Artist: SADA 2Futureanthem
+BPM: 104
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_004/chaos]
+ID: 
+Character: Sagar
+Song: Doldrums
+Artist: Paul Bazooka
+BPM: 130
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_005/chaos]
+ID: 
+Character: Sagar
+Song: Nídhögg
+Artist: 溝口ゆうま feat. 大瀬良あい
+BPM: 113
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_006/chaos]
+ID: 
+Character: Sagar
+Song: Legacy
+Artist: technoplanet
+BPM: 148
+Charts: [EASY 5 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/sagar001_007/chaos]
+ID: 
+Character: Sagar
+Song: A Portent of the Silver Wheel
+Artist: millstones
+BPM: 206
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/sagar001_008/chaos]
+ID: 
+Character: Sagar
+Song: Sacrifice
+Artist: TERU FOX
+BPM: 173
+Charts: [EASY 3 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_009/chaos]
+ID: 
+Character: Sagar
+Song: Return of the Lamp
+Artist: 柳田Ethnica
+BPM: 140
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/sagar001_010/chaos]
+ID: 
+Character: Rin
+Song: The Siege
+Artist: 3R2
+BPM: 166
+Charts: [EASY 3 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/rin001_001/chaos]
+ID: 
+Character: Rin
+Song: The Grand Debate
+Artist: Sherwin
+BPM: 150
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/rin001_002/chaos]
+ID: 
+Character: Rin
+Song: 三灯火
+Artist: yuritoworks.
+BPM: 156
+Charts: [EASY 4 => , HARD 8 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/rin001_003/chaos]
+ID: 
+Character: Rin
+Song: 「妖怪録、我し来にけり。」
+Artist: TEZUKApo11o band ft.ランコ(豚乙女)+OFFICE萬田㈱
+BPM: 206
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/rin001_004/chaos]
+ID: 
+Character: Rin
+Song: Starry Summoner
+Artist: アマギセーラ
+BPM: 106
+Charts: [EASY 2 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/rin001_005/chaos]
+ID: 
+Character: Rin
+Song: すゝめ☆クノイチの巻
+Artist: 黒沢ダイスケ x mitsu feat. ななひら
+BPM: 120-172
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/rin001_006/chaos]
+ID: 
+Character: Rin
+Song: 彩
+Artist: MisoilePunch♪
+BPM: 170
+Charts: [EASY 4 => , HARD 9 => https://ct2view.the-kitti.com/chartlist/rin001_007/hard, CHAOS 14 => https://ct2view.the-kitti.com/chartlist/rin001_007/chaos]
+ID: 
+Character: Rin
+Song: 決戦
+Artist: 篤志
+BPM: 155
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/rin001_008/chaos]
+ID: 
+Character: Rin
+Song: Mari-Temari
+Artist: Miki Fujimoto
+BPM: 98
+Charts: [EASY 2 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/rin001_009/chaos]
+ID: 
+Character: Rin
+Song: Inari
+Artist: TERU FOX
+BPM: 128
+Charts: [EASY 3 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/rin001_010/chaos]
+ID: 
+Character: Aroma
+Song: change
+Artist: Tsukasa
+BPM: 132
+Charts: [EASY 1 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff002_001/chaos]
+ID: 
+Character: Aroma
+Song: No One Can't Stop Me
+Artist: MK&Kanae Asaba
+BPM: 128
+Charts: [EASY 3 => , HARD 5 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff002_002/chaos]
+ID: 
+Character: Aroma
+Song: Spotlight On
+Artist: 林子玹 & 山姆丘 & Xinevsky
+BPM: 200-202
+Charts: [EASY 3 => , HARD 6 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/paff002_003/chaos]
+ID: 
+Character: Aroma
+Song: Bring the light
+Artist: Night Keepers
+BPM: 112
+Charts: [EASY 2 => , HARD 5 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff002_004/chaos]
+ID: 
+Character: Aroma
+Song: Make U Mine
+Artist: James Landino ft. Jenny
+BPM: 157
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff002_005/chaos]
+ID: 
+Character: Aroma
+Song: Anzen Na Kusuri
+Artist: The SxPLAY[菅原紗由理]
+BPM: 102
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff002_006/chaos]
+ID: 
+Character: Aroma
+Song: 漂流
+Artist: THE SxPLAY & KIVΛ
+BPM: 145
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/paff002_007/chaos]
+ID: 
+Character: Aroma
+Song: Perspectives
+Artist: KIVΛ & Nikki Simmons
+BPM: 105
+Charts: [EASY 2 => , HARD 5 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff002_008/chaos]
+ID: 
+Character: Aroma
+Song: 風の声
+Artist: Iris x Ruri Matsumura
+BPM: 140
+Charts: [EASY 2 => , HARD 4 => , CHAOS 9 => https://ct2view.the-kitti.com/chartlist/paff002_009/chaos]
+ID: 
+Character: Aroma
+Song: Neon Escape
+Artist: Ayy feat. 薛南
+BPM: 125
+Charts: [EASY 2 => , HARD 6 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/paff002_010/chaos]
+ID: 
+Character: Aroma
+Song: Beautiful Lie
+Artist: MINEXO feat. IMANI
+BPM: 107
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/paff002_011/chaos]
+ID: 
+Character: Nora
+Song: Accelerator
+Artist: DJ Myosuke
+BPM: 190
+Charts: [EASY 4 => , HARD 7 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo002_001/chaos]
+ID: 
+Character: Nora
+Song: Dance till Dawn
+Artist: lixound
+BPM: 155
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo002_002/chaos]
+ID: 
+Character: Nora
+Song: Uranus
+Artist: MK
+BPM: 165
+Charts: [EASY 3 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo002_003/chaos]
+ID: 
+Character: Nora
+Song: Drop the World
+Artist: RiraN
+BPM: 158
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo002_004/chaos]
+ID: 
+Character: Nora
+Song: Starlight (KIVΛ Remix)
+Artist: 3R2 & KIVΛ
+BPM: 150
+Charts: [EASY 2 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo002_005/chaos]
+ID: 
+Character: Nora
+Song: Bastard of Hardcore
+Artist: Dj Grimoire
+BPM: 180
+Charts: [EASY 4 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo002_006/chaos]
+ID: 
+Character: Nora
+Song: Jakarta PROGRESSION
+Artist: KURORAK
+BPM: 140
+Charts: [EASY 3 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/robo002_007/chaos]
+ID: 
+Character: Nora
+Song: Eternity
+Artist: Silaver ft.Nathan Brumley
+BPM: 140
+Charts: [EASY 3 => , HARD 7 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo002_008/chaos]
+ID: 
+Character: Nora
+Song: Phagy Mutation
+Artist: Glatteis Infekt
+BPM: 138
+Charts: [EASY 2 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/robo002_009/chaos]
+ID: 
+Character: Nora
+Song: ATONEMENT
+Artist: SIHanatsuka
+BPM: 150
+Charts: [EASY 3 => , HARD 6 => , CHAOS 11 => https://ct2view.the-kitti.com/chartlist/robo002_010/chaos]
+ID: 
+Character: Nora
+Song: Grand Emotion
+Artist: Electron
+BPM: 110-150
+Charts: [EASY 2 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/robo002_011/chaos]
+ID: 
+Character: Neko
+Song: Chocolate Missile
+Artist: Alice Schach and the Magic Orchestra
+BPM: 175
+Charts: [EASY 2 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko002_001/chaos]
+ID: 
+Character: Neko
+Song: I can avoid it.#φωφ
+Artist: Feryquitous
+BPM: 130
+Charts: [EASY 3 => , HARD 7 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko002_002/chaos]
+ID: 
+Character: Neko
+Song: Pink Graduation
+Artist: KillerBlood
+BPM: 174
+Charts: [EASY 3 => , HARD 7 => , CHAOS 10 => https://ct2view.the-kitti.com/chartlist/neko002_003/chaos]
+ID: 
+Character: Neko
+Song: 一啖兩啖
+Artist: 安達 & Sing Sing Rabbit
+BPM: 118-156
+Charts: [EASY 3 => , HARD 7 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko002_004/chaos]
+ID: 
+Character: Neko
+Song: Mammal
+Artist: 提供
+BPM: 190
+Charts: [EASY 4 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko002_005/chaos]
+ID: 
+Character: Neko
+Song: Blah!!
+Artist: HiTECH NINJA
+BPM: 165
+Charts: [EASY 4 => , HARD 8 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko002_006/chaos]
+ID: 
+Character: Neko
+Song: リラ
+Artist: Apo11o program ft.moimoi
+BPM: 145-180
+Charts: [EASY 4 => , HARD 8 => , CHAOS 12 => https://ct2view.the-kitti.com/chartlist/neko002_007/chaos]
+ID: 
+Character: Neko
+Song: Log In
+Artist: James Landino
+BPM: 210
+Charts: [EASY 3 => , HARD 6 => , CHAOS 13 => https://ct2view.the-kitti.com/chartlist/neko002_008/chaos]
+ID: 
+Character: Neko
+Song: DJ Mashiro is dead or alive
+Artist: Ice
+BPM: 190-250
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko002_009/chaos]
+ID: 
+Character: Neko
+Song: Re:incRnaTiØN ～夕焼ケ世界ノ決別ヲ～
+Artist: Apo11o"FILAMENT"program ft. 大瀬良あい×Ritsuka
+BPM: 206
+Charts: [EASY 6 => , HARD 9 => , CHAOS 15 => https://ct2view.the-kitti.com/chartlist/neko002_010/chaos]
+ID: 
+Character: Neko
+Song: R.I.P.
+Artist: eicateve
+BPM: 192
+Charts: [EASY 5 => , HARD 9 => , CHAOS 14 => https://ct2view.the-kitti.com/chartlist/neko002_011/chaos]
+None

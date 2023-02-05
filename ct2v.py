@@ -58,12 +58,13 @@ def split_table_by_characters(headers, body):
     #character_songs = []
     curr_character = ""
 
-    for tr in body.find_all("tr"):
-        # go through each td and get the corresponding data, in sequence
-        song = Song.create_song_from_tr(tr)
-        print(song)
+    with open ("out.txt", "w") as f:
+        for tr in body.find_all("tr"):
+            # go through each td and get the corresponding data, in sequence
+            song, curr_character = Song.create_song_from_tr(tr, curr_character)
+            print(song, file=f)
 
-        return
+        
 
 
 

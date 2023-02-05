@@ -20,13 +20,13 @@ class Song:
                 )
 
     @classmethod
-    def create_song_from_tr(cls, tr):
+    def create_song_from_tr(cls, tr, curr_character):
         iterator = iter(tr.find_all("td"))
         
         td = next(iterator)
 
         if td.has_attr("rowspan"):
-            curr_character = td.text
+            curr_character = td.text 
             
             # another iteration to also get the song title
             td = next(iterator)
@@ -34,6 +34,9 @@ class Song:
 
         else:
             title = td.text
+
+        if title == "":
+            return None, curr_character
 
         td = next(iterator)
         artist = td.text
@@ -47,7 +50,7 @@ class Song:
         easy_lv = td.text
         easy_link = ""
         if td.find('a'):
-            easy_link = td.a.text
+            easy_link = td.a.get('href')
         easy_chart = Chart("EASY", easy_lv, easy_link)
         charts.append(easy_chart)
 
@@ -55,7 +58,7 @@ class Song:
         hard_lv = td.text
         hard_link = ""
         if td.find('a'):
-            hard_link = td.a.text
+            hard_link = td.a.get('href')
         hard_chart = Chart("HARD", hard_lv, hard_link)
         charts.append(hard_chart)
 
@@ -63,13 +66,15 @@ class Song:
         chaos_lv = td.text
         chaos_link = ""
         if td.find('a'):
-            chaos_link = td.a.text
+            chaos_link = td.a.get('href')
         chaos_chart = Chart("CHAOS", chaos_lv, chaos_link)
         charts.append(chaos_chart)
 
+        #song_id = chaos_link.split("/")[-2]
+
         song = cls("", curr_character, title, artist, bpm, charts)
 
-        return song
+        return song, curr_character
         
         """
         # check for glitch chart
