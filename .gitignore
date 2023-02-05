@@ -3,3 +3,4 @@ table.xml
 legacy/
 __pycache__
 requirements.txt
+out.txt
