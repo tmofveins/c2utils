@@ -27,16 +27,16 @@ class Song:
 
         if td.has_attr("rowspan"):
             curr_character = td.text 
-            
+
             # another iteration to also get the song title
             td = next(iterator)
             title = td.text
-
         else:
             title = td.text
 
+        # no title, no song
         if title == "":
-            return None, curr_character
+            return None, ""
 
         td = next(iterator)
         artist = td.text
@@ -47,49 +47,28 @@ class Song:
         charts = []
 
         td = next(iterator)
-        easy_lv = td.text
-        easy_link = ""
-        if td.find('a'):
-            easy_link = td.a.get('href')
-        easy_chart = Chart("EASY", easy_lv, easy_link)
+        easy_chart, _ = Chart.create_chart_from_td(td, "EASY")
         charts.append(easy_chart)
 
         td = next(iterator)
-        hard_lv = td.text
-        hard_link = ""
-        if td.find('a'):
-            hard_link = td.a.get('href')
-        hard_chart = Chart("HARD", hard_lv, hard_link)
+        hard_chart, _ = Chart.create_chart_from_td(td, "HARD")
         charts.append(hard_chart)
 
+        # song_id is only guaranteed obtainable from the chaos chart
         td = next(iterator)
-        chaos_lv = td.text
-        chaos_link = ""
-        if td.find('a'):
-            chaos_link = td.a.get('href')
-        chaos_chart = Chart("CHAOS", chaos_lv, chaos_link)
+        chaos_chart, song_id = Chart.create_chart_from_td(td, "CHAOS")
         charts.append(chaos_chart)
 
-        #song_id = chaos_link.split("/")[-2]
+        td = next(iterator)
+        glitch_chart, _ = Chart.create_chart_from_td(td, "GLITCH")
+        if glitch_chart is not None:
+            charts.append(glitch_chart)
 
-        song = cls("", curr_character, title, artist, bpm, charts)
+        td = next(iterator)
+        sp_chart, _ = Chart.create_chart_from_td(td, "SPECIAL")
+        if sp_chart is not None:
+            charts.append(sp_chart)
+
+        song = cls(song_id, curr_character, title, artist, bpm, charts)
 
         return song, curr_character
-        
-        """
-        # check for glitch chart
-        td = next(iterator)
-        if
-        glitch_lv = td.text
-        glitch_link = ""
-        if td.find('a'):
-            glitch_link = td.a.text
-        glitch_chart = chart.Chart("GLITCH", glitch_lv, glitch_link)
-
-        # check for special chart (i.e. crash/drop/dream)
-        td = next(iterator)
-        sp_lv = td.text
-        sp_link = ""
-        if td.find('a'):
-            sp_link = td.a.text
-        easy_chart = chart.Chart("EASY", easy_lv, easy_link)"""
