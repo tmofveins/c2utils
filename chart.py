@@ -15,16 +15,13 @@ class Chart(db.Entity):
         self.diff_level = diff_level
         self.diff_link = diff_link"""
 
-    def __repr__(self):
-        return f'{self.diff_name} {self.diff_level} => {getattr(self, "diff_link", "N/A")}'
-
     @classmethod
     def create_chart_from_td(cls, td, diff_name):
         chart_lv = td.text
 
         # no level, no chart
         if chart_lv == "":
-            return None, ""
+            return "", (None, None, None)
 
         chart_link = ""
         if td.find('a'):
@@ -35,8 +32,9 @@ class Chart(db.Entity):
         # chaos chart is always present, hence song_id only obtainable from here
         if diff_name == "CHAOS":
             song_id = chart_link.split("/")[-2]
-        # crash/drop/dream is stored in the same space, so we use url to determine which it is
+        # crash/drop/dream is stored in the same table space, so we use url to determine which it is
         elif diff_name == "SPECIAL":
             diff_name = chart_link.split("/")[-1]
 
+        return song_id, (diff_name, chart_lv, chart_link)
         #return cls(diff_name, chart_lv, chart_link), song_id
