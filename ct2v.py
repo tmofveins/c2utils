@@ -35,8 +35,8 @@ def parse_table_into_songs(table):
 
     with open ("out.txt", "w") as f:
         for tr in body.find_all("tr"):
-            song, curr_character = Song.create_song_from_tr(tr, curr_character)
-            print(song, file=f)
+            Song.create_song_from_tr(tr, curr_character)
+            #print(song, file=f)
             print("\n---\n", file=f)
 
 #################################################
@@ -45,4 +45,4 @@ if __name__ == "__main__":
     table = get_table_from_soup(utils.SOURCE)
     parse_table_into_songs(table)
 
-    database_setup()
+    database.database_setup()

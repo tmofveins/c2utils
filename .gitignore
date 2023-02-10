@@ -4,3 +4,4 @@ legacy/
 __pycache__
 requirements.txt
 out.txt
+c2songs.sqlite

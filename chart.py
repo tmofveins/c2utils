@@ -1,17 +1,19 @@
 from bs4 import BeautifulSoup
 from pony.orm import * 
-from song import db
+
+from database import db
+#from song import Song
 
 class Chart(db.Entity):
-    chart_id = Required(str)
+    song = Required("Song")
     diff_name = Required(str)
     diff_level = Required(str)
     diff_link = Optional(str)
 
-    def __init__(self, diff_name: str, diff_level: str, diff_link: str):
+    """def __init__(self, diff_name: str, diff_level: str, diff_link: str):
         self.diff_name = diff_name
         self.diff_level = diff_level
-        self.diff_link = diff_link
+        self.diff_link = diff_link"""
 
     def __repr__(self):
         return f'{self.diff_name} {self.diff_level} => {getattr(self, "diff_link", "N/A")}'
@@ -37,4 +39,4 @@ class Chart(db.Entity):
         elif diff_name == "SPECIAL":
             diff_name = chart_link.split("/")[-1]
 
-        return cls(diff_name, chart_lv, chart_link), song_id
+        #return cls(diff_name, chart_lv, chart_link), song_id

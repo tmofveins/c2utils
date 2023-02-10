@@ -2,13 +2,13 @@ from bs4 import BeautifulSoup
 from pony.orm import * 
 
 import pykakasi
-import utils
 
+import utils
 from chart import Chart
 from database import db
 
 class Song(db.Entity):
-    song_id = Required(str)
+    song_id = PrimaryKey(str)
     character = Required(str)
     title = Required(str)
     trans_title = Optional(str)
@@ -16,7 +16,7 @@ class Song(db.Entity):
     bpm = Required(str)
     charts = Set("Chart")
 
-    def __init__(self, song_id: str, character: str, title: str, trans_title: str,
+    """def __init__(self, song_id: str, character: str, title: str, trans_title: str,
                 artist: str, bpm: str, charts: [Chart]):
         self.song_id = song_id
         self.character = character
@@ -24,7 +24,7 @@ class Song(db.Entity):
         self.trans_title = trans_title
         self.artist = artist
         self.bpm = bpm
-        self.charts = charts
+        self.charts = charts"""
 
     def __repr__(self):
         return (
@@ -63,28 +63,21 @@ class Song(db.Entity):
         charts = []
 
         td = next(iterator)
-        easy_chart, _ = Chart.create_chart_from_td(td, "EASY")
-        charts.append(easy_chart)
+        Chart.create_chart_from_td(td, "EASY")
 
         td = next(iterator)
-        hard_chart, _ = Chart.create_chart_from_td(td, "HARD")
-        charts.append(hard_chart)
+        Chart.create_chart_from_td(td, "HARD")
 
         # song_id is only guaranteed obtainable from the chaos chart
         td = next(iterator)
-        chaos_chart, song_id = Chart.create_chart_from_td(td, "CHAOS")
-        charts.append(chaos_chart)
+        Chart.create_chart_from_td(td, "CHAOS")
 
         td = next(iterator)
-        glitch_chart, _ = Chart.create_chart_from_td(td, "GLITCH")
-        if glitch_chart is not None:
-            charts.append(glitch_chart)
+        Chart.create_chart_from_td(td, "GLITCH")
 
         td = next(iterator)
-        sp_chart, _ = Chart.create_chart_from_td(td, "SPECIAL")
-        if sp_chart is not None:
-            charts.append(sp_chart)
+        Chart.create_chart_from_td(td, "SPECIAL")
 
-        song = cls(song_id, curr_character, title, "", artist, bpm, charts)
+        #song = cls(song_id, curr_character, title, "", artist, bpm, charts)
 
-        return song, curr_character
+        #return song, curr_character
