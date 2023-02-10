@@ -1,6 +1,12 @@
 from bs4 import BeautifulSoup
+from pony.orm import * 
+from song import db
 
-class Chart:
+class Chart(db.Entity):
+    chart_id = Required(str)
+    diff_name = Required(str)
+    diff_level = Required(str)
+    diff_link = Optional(str)
 
     def __init__(self, diff_name: str, diff_level: str, diff_link: str):
         self.diff_name = diff_name

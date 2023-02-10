@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
 from pykakasi import kakasi
-from collections import Counter, defaultdict
+from pony.orm import *
 
 import pandas as pd
 import numpy as np
@@ -10,20 +10,17 @@ import re
 import discord
 import os
 
+import database
 import utils
-from song import Song 
+from song import Song
 from chart import Chart
 
 #################################################
 
 def get_table_from_soup(url):
     try:
-        r = requests.get(url, headers=utils.headers)
+        r = requests.get(url, headers = utils.HEADERS)
         c2v = BeautifulSoup(r.content, "lxml")
-
-        if not os.path.exists("table.xml"):
-            with open("table.xml", "w") as f:
-                print(c2v.body.table.prettify(), file=f)
 
         table = c2v.body.table
 
@@ -45,5 +42,7 @@ def parse_table_into_songs(table):
 #################################################
 
 if __name__ == "__main__":
-    table = get_table_from_soup(utils.source_url)
+    table = get_table_from_soup(utils.SOURCE)
     parse_table_into_songs(table)
+
+    database_setup()

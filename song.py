@@ -1,28 +1,44 @@
-from chart import Chart
 from bs4 import BeautifulSoup
+from pony.orm import * 
 
-class Song:
+import pykakasi
+import utils
 
-    def __init__(self, id: str, character: str, title: str, artist: str,
-                 bpm: str, charts: [Chart]):
-        self.id = id
+from chart import Chart
+from database import db
+
+class Song(db.Entity):
+    song_id = Required(str)
+    character = Required(str)
+    title = Required(str)
+    trans_title = Optional(str)
+    artist = Required(str)
+    bpm = Required(str)
+    charts = Set("Chart")
+
+    def __init__(self, song_id: str, character: str, title: str, trans_title: str,
+                artist: str, bpm: str, charts: [Chart]):
+        self.song_id = song_id
         self.character = character
         self.title = title
+        self.trans_title = trans_title
         self.artist = artist
         self.bpm = bpm
         self.charts = charts
 
     def __repr__(self):
         return (
-                f"ID: {self.id}\nCharacter: {self.character}\n"
-                f"Song: {self.title}\nArtist: {self.artist}\nBPM: {self.bpm}\n"
+                f"ID: {self.song_id}\nCharacter: {self.character}\n"
+                f"Song: {self.title}\nTranslated title: {self.trans_title}\n"
+                f"Artist: {self.artist}\nBPM: {self.bpm}\n"
                 f"Charts: {[chart for chart in self.charts]}"
                 )
 
     @classmethod
     def create_song_from_tr(cls, tr, curr_character):
+        kks = pykakasi.kakasi()
+
         iterator = iter(tr.find_all("td"))
-        
         td = next(iterator)
 
         if td.has_attr("rowspan"):
@@ -69,6 +85,6 @@ class Song:
         if sp_chart is not None:
             charts.append(sp_chart)
 
-        song = cls(song_id, curr_character, title, artist, bpm, charts)
+        song = cls(song_id, curr_character, title, "", artist, bpm, charts)
 
         return song, curr_character
