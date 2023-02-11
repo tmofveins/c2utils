@@ -5,3 +5,4 @@ __pycache__
 requirements.txt
 out.txt
 c2songs.sqlite
+secret.py
