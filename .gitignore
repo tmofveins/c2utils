@@ -1,8 +1,7 @@
-page.xml
-table.xml
 legacy/
 __pycache__
 requirements.txt
-out.txt
 c2songs.sqlite
 secret.py
+c1ocr_testing
+c2ocr_testing
