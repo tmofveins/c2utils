@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from pony.orm import * 
 
 from database import db
-#from chart import Chart
 
 class Song(db.Entity):
     song_id = PrimaryKey(str)
@@ -20,7 +19,13 @@ def add_song_to_db(song_id, character, title, artist, bpm):
             f"Song: {title}\n"
             f"Artist: {artist}\nBPM: {bpm}\n"
         )
-
     Song(song_id = song_id, character = character, title = title, artist = artist, bpm = bpm)
 
-    print("success!\n")
+@db_session
+def print_songs():
+    for s in select(s for s in Song):
+        print(
+                f"ID: {s.song_id}\nCharacter: {s.character}\n"
+                f"Song: {s.title}\n"
+                f"Artist: {s.artist}\nBPM: {s.bpm}\n"
+            )

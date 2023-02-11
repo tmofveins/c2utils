@@ -12,6 +12,9 @@ class Chart(db.Entity):
 
 @db_session
 def add_chart_to_db(song_id, diff_name, diff_level, diff_link):
-    print(f'{diff_name} {diff_level} => {diff_link}\n')
     Chart(song = Song[song_id], diff_name = diff_name, diff_level = diff_level, diff_link = diff_link)
-    print("success!\n")
+
+@db_session
+def print_charts():
+    for c in select(c for c in Chart):
+        print(f"{song.title}: {diff_name} {diff_level} => {diff_link}\n")

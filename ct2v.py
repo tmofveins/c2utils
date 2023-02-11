@@ -17,13 +17,12 @@ import chart
 
 #################################################
 
-def get_table_from_soup(url):
+def get_table_from_soup():
     try:
-        r = requests.get(url, headers = utils.HEADERS)
+        r = requests.get(utils.SOURCE, headers = utils.HEADERS)
         c2v = BeautifulSoup(r.content, "lxml")
 
         table = c2v.body.table
-
         return table
 
     except:
@@ -91,30 +90,66 @@ def create_song_from_tr(tr, curr_character):
     return curr_character
 
 def create_chart_from_td(td, diff_name):
-        chart_lv = td.text
+    chart_lv = td.text
 
-        # no level, no chart
-        if chart_lv == "":
-            return "", (None, None, None)
+    # no level, no chart
+    if chart_lv == "":
+        return "", (None, None, None)
 
-        chart_link = ""
-        if td.find('a'):
-            chart_link = td.a.get('href')
+    chart_link = ""
+    if td.find('a'):
+        chart_link = td.a.get('href')
 
-        song_id = ""
+    song_id = ""
 
-        # chaos chart is always present, hence song_id only obtainable from here
-        if diff_name == "CHAOS":
-            song_id = chart_link.split("/")[-2]
-        # crash/drop/dream is stored in the same table space, so we use url to determine which it is
-        elif diff_name == "SPECIAL":
-            diff_name = chart_link.split("/")[-1]
+    # chaos chart is always present, hence song_id only obtainable from here
+    if diff_name == "CHAOS":
+        song_id = chart_link.split("/")[-2]
+    # crash/drop/dream is stored in the same table space, so we use url to determine which it is
+    elif diff_name == "SPECIAL":
+        diff_name = chart_link.split("/")[-1]
 
-        return song_id, (diff_name, chart_lv, chart_link)
+    return song_id, (diff_name, chart_lv, chart_link)
+
+#################################################
+
+def compare_fuzz(song, best_matches, best_fuzz_ratio, fuzz_value):
+    if fuzz_value > best_fuzz_ratio:
+        best_matches.clear()
+        best_matches.append(song)
+        return True
+
+    elif fuzz_value == best_fuzz_ratio:
+        best_matches.append(song)
+        return False
+
+    return False
+
+@db_session
+def search_song(query):
+    best_fuzz_ratio = 0
+    best_matches = []
+
+    for curr_song in select(curr_song for curr_song in song.Song):
+        if curr_song.title.lower() == query.lower() or curr_song.song_id.lower() == query.lower():
+            return curr_song
+
+        fuzz_value = fuzz.token_set_ratio(curr_song.title, query)
+
+        if compare_fuzz(curr_song, best_matches, best_fuzz_ratio, fuzz_value):
+            best_fuzz_ratio = fuzz_value 
+
+    # if there are no good matches, return nothing
+    if best_fuzz_ratio < 0.2:
+        return []
+
+    return best_matches
 
 #################################################
 
 if __name__ == "__main__":
     database.database_setup()
-    table = get_table_from_soup(utils.SOURCE)
-    parse_table_into_songs(table)
+
+    if not os.path.exists("c2songs.sqlite"):
+        table = get_table_from_soup()
+        parse_table_into_songs(table)        
