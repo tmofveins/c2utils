@@ -11,7 +11,7 @@ import discord
 import os
 
 import database
-import utils
+from .. import utils
 import song
 import chart
 
