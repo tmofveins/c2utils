@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from pony.orm import * 
 
 from database import db
-from song import Song
+from .song import Song
 
 class Chart(db.Entity):
     song = Required("Song")

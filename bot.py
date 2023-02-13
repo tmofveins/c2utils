@@ -15,7 +15,7 @@ async def on_ready():
 
 #################################################
 
-@bot.command
+@bot.command()
 async def c2s(ctx, arg):
     pass
 

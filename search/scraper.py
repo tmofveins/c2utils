@@ -11,9 +11,9 @@ import discord
 import os
 
 import database
-from .. import utils
-import song
-import chart
+import utils
+import search.song as song
+import search.chart as chart
 
 #################################################
 
@@ -21,8 +21,8 @@ def get_table_from_soup():
     try:
         r = requests.get(utils.SOURCE, headers = utils.HEADERS)
         c2v = BeautifulSoup(r.content, "lxml")
-
         table = c2v.body.table
+
         return table
 
     except:
