@@ -3,8 +3,6 @@ from fuzzywuzzy import fuzz
 from pykakasi import kakasi
 from pony.orm import *
 
-import pandas as pd
-import numpy as np
 import requests
 import re
 import discord
@@ -132,7 +130,7 @@ def search_song(query):
 
     for curr_song in select(curr_song for curr_song in song.Song):
         if curr_song.title.lower() == query.lower() or curr_song.song_id.lower() == query.lower():
-            return curr_song
+            return [curr_song]
 
         fuzz_value = fuzz.token_set_ratio(curr_song.title, query)
 
@@ -144,5 +142,29 @@ def search_song(query):
         return []
 
     return best_matches
+
+def show_search_results_print(best_matches):
+    for match in best_matches:
+        print(f"({match.song_id}) {match.title} - {match.artist}")
+
+def show_search_results_embed(best_matches):
+    if len(best_matches) == 0:
+        return utils.generate_embed(
+                    status = 'Error', 
+                    msg =  """No songs found. There could be an error with
+                                        your search or the bot."""
+                )
+
+    if len(best_matches) == 1:
+        return embed_search_result(best_matches[0])
+
+    return utils.generate_embed(
+                    status = 'Error', 
+                    msg =  (
+                        "Too many songs found. Please refine your search using the full song title"
+                        " or song ID (in brackets).\n"
+                        f"{show_search_results_print(best_matches)}"
+                    )
+                )
 
 #################################################

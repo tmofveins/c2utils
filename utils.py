@@ -1,4 +1,5 @@
 import re
+import discord
 
 SOURCE = "https://ct2view.the-kitti.com/"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
@@ -12,3 +13,12 @@ EMOTE_REGEX = re.compile("(:[a-zA-Z0-9_\-~]+?:)")
 
 # regex to detect pings, channel titles, or roles
 PING_REGEX = re.compile("<(#|@!|@#)\d+>")
+
+def generate_embed(status, msg):
+    """
+    Returns a Discord Embed with color depending on the message's status and custom error message.
+    """
+    colors = {
+        'Error': 0x992d22
+    }
+    return discord.Embed(title = status, color = colors[status], description = msg)
