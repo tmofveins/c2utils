@@ -1,5 +1,5 @@
 import re
-import discord
+from discord import Embed, Colour
 
 SOURCE = "https://ct2view.the-kitti.com/"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
@@ -19,6 +19,7 @@ def generate_embed(status, msg):
     Returns a Discord Embed with color depending on the message's status and custom error message.
     """
     colors = {
-        'Error': 0x992d22
+        "Error": Colour.dark_red(),
+        "Success": Colour.green(),
     }
-    return discord.Embed(title = status, color = colors[status], description = msg)
+    return Embed(title = status, colour = colors[status], description = msg)

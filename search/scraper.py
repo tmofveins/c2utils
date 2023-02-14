@@ -151,8 +151,10 @@ def show_search_results_embed(best_matches):
     if len(best_matches) == 0:
         return utils.generate_embed(
                     status = 'Error', 
-                    msg =  """No songs found. There could be an error with
-                                        your search or the bot."""
+                    msg = (
+                        "No songs found. There could be an error with"
+                        " your search or the bot."
+                    )
                 )
 
     if len(best_matches) == 1:
@@ -160,11 +162,55 @@ def show_search_results_embed(best_matches):
 
     return utils.generate_embed(
                     status = 'Error', 
-                    msg =  (
+                    msg = (
                         "Too many songs found. Please refine your search using the full song title"
                         " or song ID (in brackets).\n"
                         f"{show_search_results_print(best_matches)}"
                     )
-                )
+            )
+
+def embed_search_result(match):
+    embed = discord.Embed(colour = discord.Colour.green())
+
+    song_jacket = utils.SOURCE + "thumbnail/" + match.song_id + ".png"
+    embed.set_thumbnail(url = song_jacket)
+
+    embed.add_field(name = f"{match.title}", value = f"{match.artist}", inline = False)
+    embed.add_field(name = "BPM", value = f"{match.bpm}", inline = True)
+    embed.add_field(name = "Character", value = f"{match.character}", inline = True)
+
+    difficulty_string = get_difficulty_string(match)
+    embed.add_field(name = "Difficulty", value = difficulty_string, inline = False)
+    
+    embed.set_footer(text = "Taken from ct2view.the-kitti.com")
+ 
+    return embed
+
+def get_difficulty_string(match):
+    charts = chart.retrieve_charts_for_song(match)
+
+    difficulty_string = ""
+
+    if charts[0].diff_link is not None:
+        difficulty_string += f"[{charts[0].diff_name} {charts[0].diff_level}]({charts[0].diff_link})"
+        difficulty_string += " | "
+
+    if charts[1].diff_link is not None:
+        difficulty_string += f"[{charts[1].diff_name} {charts[1].diff_level}]({charts[1].diff_link})"
+        difficulty_string += " | "
+
+    difficulty_string += f"[{charts[2].diff_name} {charts[2].diff_level}]({charts[2].diff_link})"
+
+    if charts[3].diff_link is not None:
+        difficulty_string += " | "
+        difficulty_string += f"[{charts[3].diff_name} {charts[3].diff_level}]({charts[3].diff_link})"
+
+    if charts[4].diff_link is not None:
+        difficulty_string += " | "
+        difficulty_string += f"[{charts[4].diff_name} {charts[4].diff_level}]({charts[4].diff_link})"
+
+    print(f"DIFF: {difficulty_string}")
+    
+    return difficulty_string
 
 #################################################

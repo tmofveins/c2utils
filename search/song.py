@@ -15,12 +15,3 @@ class Song(db.Entity):
 @db_session
 def add_song_to_db(song_id, character, title, artist, bpm):
     Song(song_id = song_id, character = character, title = title, artist = artist, bpm = bpm)
-
-@db_session
-def print_songs():
-    for s in select(s for s in Song):
-        print(
-                f"ID: {s.song_id}\nCharacter: {s.character}\n"
-                f"Song: {s.title}\n"
-                f"Artist: {s.artist}\nBPM: {s.bpm}\n"
-            )

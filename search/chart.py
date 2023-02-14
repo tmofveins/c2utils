@@ -15,6 +15,13 @@ def add_chart_to_db(song_id, diff_name, diff_level, diff_link):
     Chart(song = Song[song_id], diff_name = diff_name, diff_level = diff_level, diff_link = diff_link)
 
 @db_session
-def print_charts():
-    for c in select(c for c in Chart):
-        print(f"{song.title}: {diff_name} {diff_level} => {diff_link}\n")
+def retrieve_charts_for_song(song):
+    _id = song.song_id
+
+    charts = []
+
+    for c in Chart.select(lambda c : c.song.song_id == _id):
+        print(c)
+        charts.append(c)
+    
+    return charts

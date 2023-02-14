@@ -13,5 +13,5 @@ if __name__ == "__main__":
         scraper.parse_table_into_songs(table)        
 
     #bot.run(secret.TOKEN)
-    matches = scraper.search_song("accel")
+    matches = scraper.search_song("body")
     scraper.show_search_results_embed(matches)
