@@ -8,10 +8,9 @@ import secret
 if __name__ == "__main__":
     database.database_setup()
 
-    if not os.path.exists("c2songs.sqlite"):
-        table = scraper.get_table_from_soup()
-        scraper.parse_table_into_songs(table)        
+    #table = scraper.get_table_from_soup()
+    #scraper.parse_table_into_songs(table)        
 
     #bot.run(secret.TOKEN)
-    matches = scraper.search_song("body")
+    matches = scraper.search_song("001_004")
     scraper.show_search_results_embed(matches)

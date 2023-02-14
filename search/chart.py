@@ -19,9 +19,7 @@ def retrieve_charts_for_song(song):
     _id = song.song_id
 
     charts = []
-
     for c in Chart.select(lambda c : c.song.song_id == _id):
-        print(c)
         charts.append(c)
     
     return charts
