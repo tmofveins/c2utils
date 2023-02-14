@@ -12,7 +12,7 @@ class Chart(db.Entity):
 
 @db_session
 def add_chart_to_db(song_id, diff_name, diff_level, diff_link):
-    Chart(song = Song[song_id], diff_name = diff_name, diff_level = diff_level, diff_link = diff_link)
+    Chart(song = Song[song_id], diff_name = diff_name.upper(), diff_level = diff_level, diff_link = diff_link)
 
 @db_session
 def retrieve_charts_for_song(song):
