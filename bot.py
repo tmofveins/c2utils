@@ -3,6 +3,7 @@ from discord.ext import commands
 import re
 
 import search.scraper as scraper
+import search.search as search
 import utils
 
 intents = discord.Intents.default()
@@ -35,8 +36,8 @@ async def c2s(ctx, arg):
             ))
         return
 
-    matches = scraper.search_song(arg)
-    result_embed = scraper.show_search_results_embed(matches)
+    matches = search.search_song(arg)
+    result_embed = search.show_search_results_embed(matches)
 
     await ctx.send(embed = result_embed)
 
