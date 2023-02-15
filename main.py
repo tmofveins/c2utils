@@ -11,6 +11,4 @@ if __name__ == "__main__":
     #table = scraper.get_table_from_soup()
     #scraper.parse_table_into_songs(table)        
 
-    #bot.run(secret.TOKEN)
-    matches = scraper.search_song("001_004")
-    embed = scraper.show_search_results_embed(matches)
+    bot.run(secret.TOKEN)

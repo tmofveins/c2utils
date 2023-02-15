@@ -1,5 +1,9 @@
 import discord
 from discord.ext import commands
+import re
+
+import search.scraper as scraper
+import utils
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -16,11 +20,33 @@ async def on_ready():
 #################################################
 
 @bot.command()
+async def test(ctx):
+    await ctx.send("hi")
+
+@bot.command()
 async def c2s(ctx, arg):
-    pass
+    is_emote = re.search(utils.EMOTE_REGEX, arg)
+    is_ping = re.search(utils.PING_REGEX, arg)    
+
+    if is_emote or is_ping:
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = 'Invalid input. Ping, emote, or channel name detected.'
+            ))
+        return
+
+    matches = scraper.search_song(arg)
+    print(matches)
+    result_embed = scraper.show_search_results_embed(matches)
+
+    await ctx.send(embed = result_embed)
 
 @c2s.error
 async def c2s_error(ctx, error):
-    pass
+    if isinstance(error, commands.MissingRequiredArgument):    
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = "Please specify a search key."
+            ))
 
 #################################################
