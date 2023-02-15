@@ -26,10 +26,10 @@ async def test(ctx):
 
 @bot.command()
 async def c2s(ctx, arg):
-    is_emote = re.search(utils.EMOTE_REGEX, arg)
-    is_ping = re.search(utils.PING_REGEX, arg)    
+    # emote/channel/mention
+    is_invalid_input = re.search(utils.INVALID_INPUT_REGEX, arg)    
 
-    if is_emote or is_ping:
+    if is_invalid_input:
         await ctx.send(embed = utils.generate_embed(
                 status = 'Error',
                 msg = 'Invalid input. Ping, emote, or channel name detected.'

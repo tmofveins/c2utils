@@ -28,8 +28,7 @@ def search_song(query):
     best_matches = []
 
     for curr_song in select(curr_song for curr_song in song.Song):
-        if curr_song.title.lower() == query.lower() or 
-            curr_song.song_id.lower() == query.lower():
+        if curr_song.title.lower() == query.lower() or curr_song.song_id.lower() == query.lower():
             return [curr_song]
 
         fuzz_value = fuzz.token_set_ratio(curr_song.title, query)
