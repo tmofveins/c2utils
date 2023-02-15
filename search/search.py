@@ -31,7 +31,7 @@ def search_song(query):
     # only done because there are songs with exactly the same title
     for s in select(s for s in song.Song):
         if s.song_id.lower() == query.lower():
-            return [curr_song]
+            return [s]
 
         if s.title.lower() == query.lower():
             best_matches.append(s)
