@@ -27,13 +27,23 @@ def search_song(query):
     best_fuzz_ratio = 0
     best_matches = []
 
-    for curr_song in select(curr_song for curr_song in song.Song):
-        if curr_song.title.lower() == query.lower() or curr_song.song_id.lower() == query.lower():
+    # first loop to find exact matches
+    # only done because there are songs with exactly the same title
+    for s in select(s for s in song.Song):
+        if s.song_id.lower() == query.lower():
             return [curr_song]
 
-        fuzz_value = fuzz.token_set_ratio(curr_song.title, query)
+        if s.title.lower() == query.lower():
+            best_matches.append(s)
+    
+    if len(best_matches) >= 1:
+        return best_matches
 
-        if compare_fuzz(curr_song, best_matches, best_fuzz_ratio, fuzz_value):
+    # second loop to get approx matches
+    for s in select(s for s in song.Song):
+        fuzz_value = fuzz.token_set_ratio(s.title, query)
+
+        if compare_fuzz(s, best_matches, best_fuzz_ratio, fuzz_value):
             best_fuzz_ratio = fuzz_value 
 
     # if there are no good matches, return nothing
