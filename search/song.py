@@ -14,4 +14,5 @@ class Song(db.Entity):
 
 @db_session
 def add_song_to_db(song_id, character, title, artist, bpm):
-    Song(song_id = song_id, character = character, title = title, artist = artist, bpm = bpm)
+    if Song.get(song_id = song_id) is None:
+        Song(song_id = song_id, character = character, title = title, artist = artist, bpm = bpm)
