@@ -13,4 +13,4 @@ if __name__ == "__main__":
 
     #bot.run(secret.TOKEN)
     matches = scraper.search_song("001_004")
-    scraper.show_search_results_embed(matches)
+    embed = scraper.show_search_results_embed(matches)

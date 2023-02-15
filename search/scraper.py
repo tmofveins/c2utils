@@ -189,36 +189,11 @@ def embed_search_result(match):
 def get_difficulty_string(match):
     charts = chart.retrieve_charts_for_song(match)
 
-    difficulty_string = ""
+    chart_strings = [f"{c.diff_name} {c.diff_level}" for c in charts]
     
-    if charts[0].diff_link is not None:
-        difficulty_string += f"[{charts[0].diff_name} {charts[0].diff_level}]({charts[0].diff_link})"
-        difficulty_string += " | "
-    else:
-        difficulty_string += f"{charts[0].diff_name} {charts[0].diff_level}"
-        difficulty_string += " | "
+    markdown_strings = [f"[{cs}]({c.diff_link})" if c.diff_link is not None 
+                        else cs for cs, c in zip(chart_strings, charts)]
 
-    if charts[1].diff_link is not None:
-        difficulty_string += f"[{charts[1].diff_name} {charts[1].diff_level}]({charts[1].diff_link})"
-        difficulty_string += " | "
-    else:
-        difficulty_string += f"{charts[1].diff_name} {charts[1].diff_level}"
-        difficulty_string += " | "
-
-    difficulty_string += f"[{charts[2].diff_name} {charts[2].diff_level}]({charts[2].diff_link})"
-
-    if len(charts) >= 4:
-        if charts[3].diff_link is not None:
-            difficulty_string += " | "
-            difficulty_string += f"[{charts[3].diff_name} {charts[3].diff_level}]({charts[3].diff_link})"
-
-    if len(charts) >= 5:
-        if charts[4].diff_link is not None:
-            difficulty_string += " | "
-            difficulty_string += f"[{charts[4].diff_name} {charts[4].diff_level}]({charts[4].diff_link})"
-
-    print(f"DIFF: {difficulty_string}")
-    
-    return difficulty_string
+    return " | ".join(markdown_strings)
 
 #################################################
