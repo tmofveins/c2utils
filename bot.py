@@ -36,7 +36,6 @@ async def c2s(ctx, arg):
         return
 
     matches = scraper.search_song(arg)
-    print(matches)
     result_embed = scraper.show_search_results_embed(matches)
 
     await ctx.send(embed = result_embed)

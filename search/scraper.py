@@ -141,11 +141,7 @@ def search_song(query):
     if best_fuzz_ratio < 0.2:
         return []
 
-    return best_matches
-
-def show_search_results_print(best_matches):
-    for match in best_matches:
-        print(f"({match.song_id}) {match.title} - {match.artist}")
+    return best_matches        
 
 def show_search_results_embed(best_matches):
     if len(best_matches) == 0:
@@ -160,12 +156,15 @@ def show_search_results_embed(best_matches):
     if len(best_matches) == 1:
         return embed_search_result(best_matches[0])
 
+    multiple_search_results = "\n".join(f"({match.song_id}) {match.title} / {match.artist}" 
+                                for match in best_matches)
+
     return utils.generate_embed(
                     status = 'Error', 
                     msg = (
-                        "Too many songs found. Please refine your search using the full song title"
-                        " or song ID (in brackets).\n"
-                        f"{show_search_results_print(best_matches)}"
+                        "Too many songs found. Please refine your search using the"
+                        " full song title or song ID (in brackets).\n\n"
+                        f"{multiple_search_results}"
                     )
             )
 
@@ -190,7 +189,7 @@ def get_difficulty_string(match):
     charts = chart.retrieve_charts_for_song(match)
 
     chart_strings = [f"{c.diff_name} {c.diff_level}" for c in charts]
-    
+
     markdown_strings = [f"[{cs}]({c.diff_link})" if c.diff_link is not None 
                         else cs for cs, c in zip(chart_strings, charts)]
 
