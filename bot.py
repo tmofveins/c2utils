@@ -37,9 +37,9 @@ async def c2s(ctx, arg):
         return
 
     matches = search.search_song(arg)
-    result_embed = search.show_search_results_embed(matches)
+    result = search.display_search_result_as_embed(matches)
 
-    await ctx.send(embed = result_embed)
+    await ctx.send(embed = result)
 
 @c2s.error
 async def c2s_error(ctx, error):

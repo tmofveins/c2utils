@@ -28,7 +28,8 @@ def search_song(query):
     best_matches = []
 
     for curr_song in select(curr_song for curr_song in song.Song):
-        if curr_song.title.lower() == query.lower() or curr_song.song_id.lower() == query.lower():
+        if curr_song.title.lower() == query.lower() or 
+            curr_song.song_id.lower() == query.lower():
             return [curr_song]
 
         fuzz_value = fuzz.token_set_ratio(curr_song.title, query)
@@ -40,9 +41,11 @@ def search_song(query):
     if best_fuzz_ratio < 0.2:
         return []
 
-    return best_matches        
+    return best_matches
 
-def show_search_results_embed(best_matches):
+#################################################
+
+def display_search_result_as_embed(best_matches):
     if len(best_matches) == 0:
         return utils.generate_embed(
                     status = 'Error', 
@@ -53,7 +56,7 @@ def show_search_results_embed(best_matches):
                 )
 
     if len(best_matches) == 1:
-        return embed_search_result(best_matches[0])
+        return embed_single_match(best_matches[0])
 
     multiple_search_results = "\n".join(f"({match.song_id}) {match.title} / {match.artist}" 
                                 for match in best_matches)
@@ -67,7 +70,9 @@ def show_search_results_embed(best_matches):
                     )
             )
 
-def embed_search_result(match):
+def embed_single_match(match):
+    # generate appropriate discord embed for a single song match
+
     embed = discord.Embed(colour = discord.Colour.green())
 
     song_jacket = utils.SOURCE + "thumbnail/" + match.song_id + ".png"
@@ -86,9 +91,12 @@ def embed_search_result(match):
 
 def get_difficulty_string(match):
     charts = chart.retrieve_charts_for_song(match)
-
+    
+    # since some charts are not available on the site but i want to display the
+    # song difficulty regardless
     chart_strings = [f"{c.diff_name} {c.diff_level}" for c in charts]
 
+    # include hyperlink if present, else take regular chart_string from chart_strings
     markdown_strings = [f"[{cs}]({c.diff_link})" if c.diff_link is not None 
                         else cs for cs, c in zip(chart_strings, charts)]
 
