@@ -50,3 +50,20 @@ async def c2s_error(ctx, error):
             ))
 
 #################################################
+
+@bot.command()
+async def update(ctx):
+    table = scraper.get_table_from_soup()
+    scraper.parse_table_into_songs(table)
+
+    songs_added_blurb = "\n".join(s for s in utils.SONGS_ADDED_THIS_UPDATE)
+
+    await ctx.send(embed = utils.generate_embed(
+        status = "Success",
+        msg = (
+            f"{len(utils.SONGS_ADDED_THIS_UPDATE)} new songs added.\n"
+            f"{songs_added_blurb}"
+        )
+    ))
+
+    utils.SONGS_ADDED_THIS_UPDATE = []

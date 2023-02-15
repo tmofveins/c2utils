@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 from pony.orm import * 
 
 from database import db
+import utils
 
 class Song(db.Entity):
     song_id = PrimaryKey(str)
@@ -16,3 +17,4 @@ class Song(db.Entity):
 def add_song_to_db(song_id, character, title, artist, bpm):
     if Song.get(song_id = song_id) is None:
         Song(song_id = song_id, character = character, title = title, artist = artist, bpm = bpm)
+        utils.SONGS_ADDED_THIS_UPDATE.append(title)
