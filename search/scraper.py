@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 
 import utils
-import search.song as song
-import search.chart as chart
+from search import song
+from search import chart
 
 #################################################
 
@@ -103,3 +103,14 @@ def create_chart_from_td(td, diff_name):
     return song_id, (diff_name, chart_lv, chart_link)
 
 #################################################
+
+def update_database():
+    table = get_table_from_soup()
+    parse_table_into_songs(table)
+
+    num_songs_added = len(utils.SONGS_ADDED_THIS_UPDATE)
+    songs_added_blurb = "\n".join(s for s in utils.SONGS_ADDED_THIS_UPDATE)
+
+    utils.SONGS_ADDED_THIS_UPDATE = []
+
+    return num_songs_added, songs_added_blurb

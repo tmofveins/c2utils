@@ -2,9 +2,9 @@ import discord
 from discord.ext import commands
 import re
 
-import search.scraper as scraper
-import search.search as search
 import utils
+from search import scraper
+from search import search
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -53,17 +53,18 @@ async def c2s_error(ctx, error):
 
 @bot.command()
 async def update(ctx):
-    table = scraper.get_table_from_soup()
-    scraper.parse_table_into_songs(table)
+    num_songs_added, songs_added_blurb = scraper.update_database()
 
-    songs_added_blurb = "\n".join(s for s in utils.SONGS_ADDED_THIS_UPDATE)
-
-    await ctx.send(embed = utils.generate_embed(
-        status = "Success",
-        msg = (
-            f"{len(utils.SONGS_ADDED_THIS_UPDATE)} new songs added.\n"
-            f"{songs_added_blurb}"
-        )
-    ))
-
-    utils.SONGS_ADDED_THIS_UPDATE = []
+    if num_songs_added >= 1:
+        await ctx.send(embed = utils.generate_embed(
+            status = "Success",
+            msg = (
+                f"{num_songs_added} songs added:\n"
+                f"{songs_added_blurb}"
+            )
+        ))
+    else:
+        await ctx.send(embed = utils.generate_embed(
+            status = "Neutral",
+            msg = ("No new songs added.")
+        ))

@@ -19,6 +19,7 @@ def generate_embed(status, msg):
     """
     colors = {
         "Error": Colour.dark_red(),
+        "Neutral": Colour.dark_grey(),
         "Success": Colour.green(),
     }
     return Embed(title = status, colour = colors[status], description = msg)

@@ -1,5 +1,7 @@
 from pony.orm import *
 
+import utils
+
 db = Database()
 
 def database_setup():
