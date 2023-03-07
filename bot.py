@@ -68,3 +68,17 @@ async def update(ctx):
             status = "Neutral",
             msg = ("No new songs added.")
         ))
+
+@bot.command()
+async def alias(ctx, arg1, arg2s):
+    pass 
+
+@alias.error
+async def alias_error(ctx, error):
+    if isinstance(error, commands.MissingRequiredArgument):    
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = "Please specify both a valid song_id and alias."
+            ))
+
+#################################################

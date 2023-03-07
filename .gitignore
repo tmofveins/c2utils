@@ -1,6 +1,5 @@
 legacy/
 __pycache__
-requirements.txt
 c2songs.sqlite
 secret.py
 c1ocr_testing
