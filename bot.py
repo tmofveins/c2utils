@@ -71,9 +71,7 @@ async def update(ctx):
 
 @bot.command()
 async def addtl(ctx, song_id, trans_title):
-    is_invalid_input = re.search(utils.INVALID_INPUT_REGEX, search_key)    
-
-    if is_invalid_input:
+    if re.search(utils.INVALID_INPUT_REGEX, song_id) or re.search(utils.INVALID_INPUT_REGEX, trans_title):
         await ctx.send(embed = utils.generate_embed(
                 status = 'Error',
                 msg = 'Invalid input. Ping, emote, or channel name detected.'
@@ -83,7 +81,7 @@ async def addtl(ctx, song_id, trans_title):
     if scraper.add_trans_title(song_id, trans_title):
         await ctx.send(embed = utils.generate_embed(
                 status = "Success",
-                msg = f"Translated title ${trans_title} added for song ${song_id}"
+                msg = f"Translated title {trans_title} added for song {song_id}"
             ))
     else:
         await ctx.send(embed = utils.generate_embed(
@@ -91,7 +89,7 @@ async def addtl(ctx, song_id, trans_title):
                 msg = "Invalid song ID."
             ))
 
-@alias.error
+@addtl.error
 async def alias_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):    
         await ctx.send(embed = utils.generate_embed(
