@@ -24,16 +24,18 @@ def compare_fuzz(song, best_matches, best_fuzz_ratio, fuzz_value):
 
 @db_session
 def search_song(query):
+    is_japanese = re.search(utils.JP_REGEX, query) is not None
+
     best_fuzz_ratio = 0
     best_matches = []
 
     # first loop to find exact matches
-    # only done because there are songs with exactly the same title
     for s in select(s for s in song.Song):
         if s.song_id.lower() == query.lower():
             return [s]
 
-        if s.title.lower() == query.lower():
+        # only done because there are songs with exactly the same title
+        if s.title.lower() == query.lower() or s.trans_title.lower == query.lower():
             best_matches.append(s)
     
     if len(best_matches) >= 1:
@@ -41,10 +43,21 @@ def search_song(query):
 
     # second loop to get approx matches
     for s in select(s for s in song.Song):
-        fuzz_value = fuzz.token_set_ratio(s.title, query)
+        if is_japanese:
+            fuzz_value_jp = fuzz.token_set_ratio(s.title, query)
 
-        if compare_fuzz(s, best_matches, best_fuzz_ratio, fuzz_value):
-            best_fuzz_ratio = fuzz_value 
+            if compare_fuzz(song, best_matches, best_fuzz_ratio, fuzz_value_jp):
+                best_fuzz_ratio = fuzz_value_jp
+
+        fuzz_value_regular = fuzz.token_set_ratio(s.title, query)
+
+        if compare_fuzz(s, best_matches, best_fuzz_ratio, fuzz_value_regular):
+            best_fuzz_ratio = fuzz_value_regular
+
+        fuzz_value_translated = fuzz.token_set_ratio(s.trans_title, query)
+
+        if compare_fuzz(s, best_matches, best_fuzz_ratio, fuzz_value_translated):
+            best_fuzz_ratio = fuzz_value_translated 
 
     # if there are no good matches, return nothing
     if best_fuzz_ratio < 0.2:
