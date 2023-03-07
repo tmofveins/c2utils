@@ -25,9 +25,9 @@ async def test(ctx):
     await ctx.send("hi")
 
 @bot.command()
-async def c2s(ctx, arg):
+async def c2s(ctx, search_key):
     # emote/channel/mention
-    is_invalid_input = re.search(utils.INVALID_INPUT_REGEX, arg)    
+    is_invalid_input = re.search(utils.INVALID_INPUT_REGEX, search_key)    
 
     if is_invalid_input:
         await ctx.send(embed = utils.generate_embed(
@@ -36,7 +36,7 @@ async def c2s(ctx, arg):
             ))
         return
 
-    matches = search.search_song(arg)
+    matches = search.search_song(search_key)
     result = search.display_search_result_as_embed(matches)
 
     await ctx.send(embed = result)
@@ -65,13 +65,31 @@ async def update(ctx):
         ))
     else:
         await ctx.send(embed = utils.generate_embed(
-            status = "Neutral",
+            status = "OK",
             msg = ("No new songs added.")
         ))
 
 @bot.command()
-async def alias(ctx, arg1, arg2s):
-    pass 
+async def addtl(ctx, song_id, trans_title):
+    is_invalid_input = re.search(utils.INVALID_INPUT_REGEX, search_key)    
+
+    if is_invalid_input:
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = 'Invalid input. Ping, emote, or channel name detected.'
+            ))
+        return
+
+    if scraper.add_trans_title(song_id, trans_title):
+        await ctx.send(embed = utils.generate_embed(
+                status = "Success",
+                msg = f"Translated title ${trans_title} added for song ${song_id}"
+            ))
+    else:
+        await ctx.send(embed = utils.generate_embed(
+                status = "Error",
+                msg = "Invalid song ID."
+            ))
 
 @alias.error
 async def alias_error(ctx, error):

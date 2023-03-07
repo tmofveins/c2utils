@@ -114,3 +114,6 @@ def update_database():
     utils.SONGS_ADDED_THIS_UPDATE = []
 
     return num_songs_added, songs_added_blurb
+
+def add_trans_title(song_id, trans_title):
+    return song.add_trans_title(song_id, trans_title)
