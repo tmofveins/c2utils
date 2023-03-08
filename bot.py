@@ -69,6 +69,8 @@ async def update(ctx):
             msg = ("No new songs added.")
         ))
 
+#################################################
+
 @bot.command()
 async def addtl(ctx, song_id, trans_title):
     if re.search(utils.INVALID_INPUT_REGEX, song_id) or re.search(utils.INVALID_INPUT_REGEX, trans_title):
@@ -90,7 +92,7 @@ async def addtl(ctx, song_id, trans_title):
             ))
 
 @addtl.error
-async def alias_error(ctx, error):
+async def addtl_error(ctx, error):
     if isinstance(error, commands.MissingRequiredArgument):    
         await ctx.send(embed = utils.generate_embed(
                 status = 'Error',
