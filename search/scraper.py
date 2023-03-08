@@ -13,7 +13,7 @@ def get_table_from_soup():
         r = requests.get(utils.SOURCE, headers = utils.HEADERS)
         c2v = BeautifulSoup(r.content, "lxml")
         table = c2v.body.table
-
+        
         return table
 
     except:

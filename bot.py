@@ -100,3 +100,33 @@ async def addtl_error(ctx, error):
             ))
 
 #################################################
+
+@bot.command()
+async def ocr(ctx, msg):
+    pass
+
+@ocr.error
+async def ocr_error(ctx, error):
+    if isinstance(error, commands.MissingRequiredArgument):    
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = "Please send a valid score screenshot."
+            ))
+
+#################################################
+
+@bot.command()
+async def bp(ctx, tp, perfect, good, bad, miss):
+    pass
+
+@bp.error
+async def bp_error(ctx, error):
+    if isinstance(error, commands.MissingRequiredArgument):    
+        await ctx.send(embed = utils.generate_embed(
+                status = 'Error',
+                msg = (
+                    "Please make sure you entered the correct values.\n"
+                    "Format: `tp perfect good bad miss`\n"
+                    "e.g. `100 1000 0 0 0`"
+                )
+            ))
